@@ -19,7 +19,7 @@ This repository currently contains the following legal documents:
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This repository serves as a **centralized, plain-text knowledge base** of Nigerian legal texts, structured for:
 
@@ -29,7 +29,7 @@ This repository serves as a **centralized, plain-text knowledge base** of Nigeri
 
 ---
 
-## 🗂️ Repository Structure
+## Contents
 
 ```
 Nigerian_Laws/
@@ -50,7 +50,7 @@ The documents in this repository are reproduced for **educational and research p
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome. If you would like to add additional Nigerian statutes, rules of court, or practice directions, please open a pull request with the document formatted in Markdown, placed in a clearly named directory.
 
