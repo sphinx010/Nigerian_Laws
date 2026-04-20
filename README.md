@@ -2,6 +2,7 @@
 
 A structured, markdown-formatted collection of Nigerian primary legal authorities, curated for research, study, and agentic AI/RAG pipeline ingestion.
 
+[STILL IN PROGRESS]
 ---
 
 ## Contents
