@@ -25,7 +25,7 @@ This repository serves as a **centralized, plain-text knowledge base** of Nigeri
 
 - **Legal research and reference** — Quick access to primary authorities without navigating official PDF documents.
 - **Law students & practitioners** — A readable, searchable format for study and examination preparation (e.g., Nigerian Bar Association, LLB, BL programmes).
-- **AI & RAG pipelines** — Markdown formatting makes these documents ideal for ingestion into vector databases and retrieval-augmented generation (RAG) systems such as the [LexTutor](https://github.com) platform.
+- **AI & RAG pipelines** — Markdown formatting makes these documents ideal for ingestion into graph or vector databases and retrieval-augmented generation (RAG) systems
 
 ---
 
