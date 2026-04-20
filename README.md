@@ -4,7 +4,7 @@ A structured, markdown-formatted collection of Nigerian primary legal authoritie
 
 ---
 
-## 📚 Contents
+## Contents
 
 This repository currently contains the following legal documents:
 
@@ -29,7 +29,7 @@ This repository serves as a **centralized, plain-text knowledge base** of Nigeri
 
 ---
 
-## Contents
+## Repository Structure
 
 ```
 Nigerian_Laws/
