@@ -45,10 +45,6 @@ Nigerian_Laws/
 
 ---
 
-## ⚖️ Disclaimer
-
-The documents in this repository are reproduced for **educational and research purposes only**. While care has been taken to ensure accuracy, users should always verify content against the **official gazette versions** of these laws. This repository does not constitute legal advice.
-
 ---
 
 ## Contributing
