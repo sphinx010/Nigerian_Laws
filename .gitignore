@@ -1,0 +1,9 @@
+# Ignore client-specific draft containing actual data
+agent/skills/statement_of_defence_drafting.md
+
+# Ignore AI drafts folder to prevent accidental pushes of client data
+ai_drafts/
+
+# Ensure the new omnibus skill and fictitious drafts are NOT ignored
+!agent/skills/nigerian_civil_pleadings_v1.md
+!drafts/adeyemo_estate_v1/
