@@ -667,7 +667,7 @@ following Rules
 ---
 
 <a id="order-1"></a>
-## ORDER 1 - REVOCATION, CITATION, SAVINGS, ETC
+## ORDER 1 - REVOCATION, CITATION, SAVINGS. ETC.
 
 
 <a id="order-1-rule-1"></a>
@@ -1337,7 +1337,7 @@ relating to carriage by air.
 ---
 
 <a id="order-1-dup-2"></a>
-## ORDER 1 - REVOCATION, CITATION, SAVINGS, ETC
+## Order in fix time for appearance
 
 
 <a id="order-1-rule-14"></a>
@@ -1780,7 +1780,7 @@ appear within the time prescribed in the originating process, a plaintiff may pr
 ---
 
 <a id="order-9"></a>
-## ORDER 9 - PARTIES: A - GENERAL
+## ORDER 9 - PARTIES:
 
 A-GENERAL
 
@@ -2205,7 +2205,7 @@ defect, or enabling or compelling proper parties to carry on the proceedings.
 ---
 
 <a id="order-501"></a>
-## ORDER 501 - rects, apply to the Court to discharge or vary the order
+## order directs, apply to the Court to discharge or vary the order.
 
 
 <a id="order-501-rule-32"></a>
@@ -2259,7 +2259,7 @@ notice of the change in accordance with rule 35(1) of this order, the legal prac
 ---
 
 <a id="order-500"></a>
-## ORDER 500 - eclaring that the legal representative has ceased to be the one acting for the party in the cause or matter and the
+## order declaring that the legal representative has ceased to be the one acting for the party in the cause or matter and the
 
 Court may make an order accordingly.
 (2) An order under sub-rule (1) of this rule shall not be made until the legal practitioner serves on every party to the
@@ -2429,7 +2429,7 @@ proceedings under rule 4 of this order.
 ---
 
 <a id="order-13"></a>
-## ORDER 13 - PLEADINGS: A - GENERAL
+## ORDER 13 - PLEADINGS:
 
 A - GENERAL
 
@@ -3182,7 +3182,7 @@ thereby, and the Court may make binding declarations of right whether any conseq
 ---
 
 <a id="order-17"></a>
-## ORDER 17 - AMENDMENT
+## ORDER 17-AMENDMENT
 
 
 <a id="order-17-rule-1"></a>
@@ -3767,7 +3767,7 @@ entitling the plaintiff or the defendant to the judgment of the Court:
 ---
 
 <a id="order-22"></a>
-## ORDER 22 - FILING OF WRITTEN ADDRESS
+## ORDER 22 - FILING OF WRITTEN ADDRESSES
 
 
 <a id="order-22-rule-1"></a>
@@ -4152,7 +4152,7 @@ to the legal practitioner's client in such manner as may be specified in the dir
 ---
 
 <a id="order-26"></a>
-## ORDER 26 - INTERLOCUTORY APPLICATION: A - MOTION GENERALLY
+## ORDER 26 - INTERLOCUTORY APPLICATIONS
 
 A-MOTIONS GENERALLY
 Time to apply
@@ -4388,7 +4388,7 @@ any additional affidavit to be used, after the affidavit has been duly filed and
 ---
 
 <a id="order-27"></a>
-## ORDER 27 - AFFIDAVITS
+## ORDER 27-AFFIDAVITS
 
 Evidence on motion, etc.
 
@@ -4476,7 +4476,7 @@ of the seal or signature of that Court, Judge, notary public or person.
 ---
 
 <a id="order-28"></a>
-## ORDER 28 - INTERLOCUTORY INJUNCTION AND INTERIM PRESERVATION OF PROPERTY
+## ORDER 28-INTERLOCUTORY INJUNCTIONS AND INTERIM PRESERVATION OF PROPERTY
 
 Application for injunction
 
@@ -4606,7 +4606,7 @@ direct, to any or all of the parties who have an interest, or
 ---
 
 <a id="order-29"></a>
-## ORDER 29 - DISPUTING THE COURT'S JURISDICTION
+## ORDER 29 - DISPUTING THE COURTS JURISDICTION
 
 Disputing the Court's jurisdiction
 
@@ -4758,7 +4758,7 @@ foregoing provisions, in such manner as shall seem just.
 ---
 
 <a id="order-31"></a>
-## ORDER 31 - NEEDLESS DETENTION OF CHATTELS AND REPARATION FOR IT
+## ORDER 31-NEEDLESS DETENTION OF CHATTELS AND REPARATION FOR IT
 
 Damage for reckless detention, etc.
 
@@ -4777,7 +4777,7 @@ for damages in any suit.
 ---
 
 <a id="order-32"></a>
-## ORDER 32 - STAY OF PROCEEDINGS OR EXECUTION PENDING APPEAL
+## ORDER 32-STAY OF PROCEEDINGS OR EXECUTION PENDING APPEAL
 
 Stay for proceeding or execution pending appeal
 
@@ -4831,7 +4831,7 @@ the decision of the Court and bearing the date upon which the order is made.
 ---
 
 <a id="order-33"></a>
-## ORDER 33 - INTERPLEADER PROCEEDINGS
+## ORDER 33-INTERPLEADER PROCEDINGS
 
 Entitlement to relief by way of interpleader
 
@@ -4942,7 +4942,7 @@ claim, does not appear in pursuance of the summons, or having appeared, neglects
 ---
 
 <a id="order-1000"></a>
-## ORDER 1000 - ade after his appearance, the Court of Judge in chambers may make an order declaring him, and any person
+## order made after his appearance, the Court of Judge in chambers may make an order declaring him, and any person
 
 claiming under him, forever barred against the applicant and any person claiming under him; but the order shall not
 affect the right of the claimant as between themselves.
@@ -4956,7 +4956,7 @@ to cost and any other matter as may be just and reasonable.
 ---
 
 <a id="order-34"></a>
-## ORDER 34 - APPLICATION FOR JUDICIAL REVIEW
+## ORDER 34-APPLICATION FOR JUDICIAL REVIEW
 
 Cases appropriate for application for judicial review
 
@@ -5186,7 +5186,7 @@ same ground, the Judge may order the applications to be consolidate.
 ---
 
 <a id="order-35"></a>
-## ORDER 35 - COMMITTAL FOR CONTEMPT OF COURT
+## ORDER 35-COMMITTAL FOR CONTEMPT OF COURT
 
 Committal for contempt of Court
 
@@ -5323,7 +5323,7 @@ Return
 ---
 
 <a id="order-36"></a>
-## ORDER 36 - WRIT OF EXECUTION
+## ORDER 36 - WRIT OF EXECUTION GENERAL
 
 Definition
 
@@ -5495,7 +5495,7 @@ the Court for an order directing the sheriff to comply with the notice.
 ---
 
 <a id="order-37"></a>
-## ORDER 37 - GARNISHEE PROCEEDINGS
+## ORDER 37- GARNISHEE PROCEEDINGS
 
 Attachment of judgment debtor
 1-(1) Where a person, in this order referred to as 'the judgment creditor', has obtained a judgement or order for the
@@ -5721,7 +5721,7 @@ The assessor shall subscribe to a judicial oath of secrecy before the Judge or a
 ---
 
 <a id="order-40"></a>
-## ORDER 40 - RECEIVER
+## ORDER 40 -RECEIVER
 
 Application for appointment of Receiver and injunction
 
@@ -5927,7 +5927,7 @@ have effect subject to such direction.
 ---
 
 <a id="order-42"></a>
-## ORDER 42 - PAYMENT INTO AND OUT OF COURT
+## ORDER 42-PAYMENT INTO AND OUT OF COURT
 
 Payment into and out of Court
 1(1) Where after service in any proceeding for debt or damages, a defendant Payment into envisages an intention to pay
@@ -6447,7 +6447,7 @@ given at or before trial.
 ---
 
 <a id="order-44"></a>
-## ORDER 44 - ACCOUNTS AND INQUIRIES
+## ORDER 44-ACCOUNTS AND INQUIRIES
 
 Summary order for account
 I.-(1) Where a writ is endorsed with a claim for an account or a for account claim which necessarily involves taking an
@@ -6532,7 +6532,7 @@ cost of ascertaining those other persons
 ---
 
 <a id="order-45"></a>
-## ORDER 45 - ARREST OF ABSCONDING DEFENDANT
+## ORDER 45 -ARREST OF ABSCONDING DEFENDANT
 
 Defendant leaving jurisdiction or removing property
 
@@ -6612,7 +6612,7 @@ subsistence money, or in case of serious illness order his removal to hospital,
 ---
 
 <a id="order-46"></a>
-## ORDER 46 - COURT SITTING AND VACATION
+## ORDER 46 COURT SITTING AND VACATION
 
 Day of Sittings
 
@@ -6688,7 +6688,7 @@ other Judge not being a vacation Judge to hear and determine any urgent cause or
 ---
 
 <a id="order-47"></a>
-## ORDER 47 - CAUSE LISTS
+## ORDER 47-CAUSE LISTS
 
 Weekly cause list
 
@@ -6791,7 +6791,7 @@ document, or giving any notice.
 ---
 
 <a id="order-49"></a>
-## ORDER 49 - TRANSFER AND REASSIGNMENT OF CASES
+## ORDER 49-TRANSFER AND RE-ASSIGNMENT OF A CASE
 
 Transfer of cause or matter
 
@@ -6848,7 +6848,7 @@ question.
 ---
 
 <a id="order-50"></a>
-## ORDER 50 - WITHDRAWAL AND DISCONTINUANCE
+## ORDER 50-WITHDRAWAL AND DISCONTINUANCE
 
 Withdrawal of appearance
 
@@ -6931,7 +6931,7 @@ leave of the Court
 ---
 
 <a id="order-51"></a>
-## ORDER 51 - EFFECT OF NONCOMPLIANCE
+## ORDER 51-EFFECT OF NON-COMPLIANCE
 
 Effect of non-compliance
 
@@ -6970,7 +6970,7 @@ objection shall be stated in the summons or motion on notice.
 ---
 
 <a id="order-52"></a>
-## ORDER 52 - ARBITRATION: A-REFERENCE TO ARBITRATOR
+## ORDER 52-ARBITRATION
 
 A - REFERENCE TO ARBITRATOR
 Nomination of Arbitrators and appointment
@@ -7166,7 +7166,7 @@ relation to a Judgement given by that Court
 ---
 
 <a id="order-53"></a>
-## ORDER 53 - APPEALS AND APPLICATION UNDER THE TRIAL MARKS ACT AND PATENTS AND DESIGNS ACT: A -
+## ORDER 53 - APPEALS AND APPLICATIONS UNDER THE TRADE MARKS ACT AND PATENTS AND DESIGNS ACT
 
 A GENERAL
 Applications of general procedure rules
@@ -7455,7 +7455,7 @@ case may be.
 ---
 
 <a id="order-54"></a>
-## ORDER 54 - APPEALS TO THE COURT ROOM FROM PROFESSIONAL BODIES
+## ORDER 54- APPEAL TO THE COURT FROM PROFESSIONAL BODIES
 
 Application
 
@@ -7517,7 +7517,7 @@ appellant a copy of any affidavit intended to be used by him in opposing the mot
 ---
 
 <a id="order-55"></a>
-## ORDER 55 - FEES AND ALLOWANCES
+## ORDER 55-FEES AND ALLOWANCES
 
 
 <a id="order-55-rule-1"></a>
@@ -7549,7 +7549,7 @@ the rendering of any service and or collection of any fee payable under the prov
 ---
 
 <a id="order-56"></a>
-## ORDER 56 - MTSCELLANEOUS PROVTS10NS
+## ORDER 56-MTSCELLANEOUS PROVTS10NS
 
 Orders to be made
 
@@ -7646,7 +7646,7 @@ realization of the fundamental objective of these Rules.
 ---
 
 <a id="order-58"></a>
-## ORDER 58 - ESTADLISHMENT OF COMMUNICATIONS AND SERVICE CENTRE FOR E-FILING
+## ORDER 58 - ESTABLISHMENT OF COMMUNICATIONS AND SERVICE CENTRE FOR E-FIUNG
 
 Powers of the Chief Judge
 
