@@ -27,6 +27,15 @@ This repository currently contains the following legal documents:
 ### 6. `JUDGEMENT-ENFORCEMENT-RULES/`
 - **JER.md** — The Judgment (Enforcement) Rules. Contains the procedural rules for the enforcement of judgments under the Sheriffs and Civil Process Act.
 
+### 7. `PROFESSIONAL_ETHICS/`
+- **RPC_2023.md** — The Rules of Professional Conduct for Legal Practitioners, 2023. Regulates the ethical standards and professional conduct of legal practitioners in Nigeria.
+
+### 8. `Fundamental_Rights_FREP_2009/`
+- **FREP_2009.md** — The Fundamental Rights (Enforcement Procedure) Rules, 2009. Governs the procedure for the enforcement of fundamental human rights enshrined in the Constitution.
+
+### 9. `FHC_ACT/`
+- **FHC_ACT.md** — The Federal High Court Act. Establishes the Federal High Court as a High Court with certain special powers and provides for all other matters connected therewith.
+
 ---
 
 ## Purpose
@@ -54,8 +63,14 @@ Nigerian_Laws/
 │   └── FHC_CPR_2019.md
 ├── Sheriffs_and_Civil_Process_Act/
 │   └── SCPA.md
-└── JUDGEMENT-ENFORCEMENT-RULES/
-    └── JER.md
+├── JUDGEMENT-ENFORCEMENT-RULES/
+│   └── JER.md
+├── PROFESSIONAL_ETHICS/
+│   └── RPC_2023.md
+├── Fundamental_Rights_FREP_2009/
+│   └── FREP_2009.md
+└── FHC_ACT/
+    └── FHC_ACT.md
 ```
 
 ---
