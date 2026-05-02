@@ -2,7 +2,7 @@ This is designed to produce **court-ready Statements of Claim and Statements of 
 
 ---
 
-# 🧠 PRODUCTION PROMPT TEMPLATE
+# PRODUCTION PROMPT TEMPLATE
 
 ## NIGERIAN CIVIL PLEADINGS DRAFTING ENGINE (OMNIBUS)
 

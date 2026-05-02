@@ -102,3 +102,36 @@
 
         ---------------------------------------------------------------------------------
         
+        The lawyers account:
+
+        The 3rd Defendant, a legal practitioner, was briefed and his professional services were formally engaged by the Olomowewe family to manage the affairs of the Estate via a validly executed Power of Attorney. The 3rd Defendant avers that his relationship with the family and the Estate is strictly fiduciary, and all actions taken in the management of the said Estate were performed bona fide (in good faith), within the vires (powers) and scope of the authority donated to him by the said instrument. 
+
+        The 3rd Defendant avers that the property subject of this suit is Family Property, collectively owned by the children of the late Chief Sikiru Raji Olomowewe by virtue of Yoruba Native Law and Custom regarding intestacy. The 3rd Defendant further states that the applicable mode of distribution is the Ori-Ojori system, whereby the Estate is shared in equal shares among all the children of the deceased, regardless of their maternal roots
+
+        The 3rd Defendant avers that the Power of Attorney was legally and validly executed as a Deed, duly notarized, and put in writing. The said Power of Attorney was attested to by the children of the deceased under the Idi-Igi system, wherein the eldest surviving child of each of the four wives of the late Chief Sikiru Raji Olomowewe signed the document for themselves and on behalf of the other children of their respective branches, thereby donating and authorizing the 3rd Defendant to manage the affairs of the Estate.
+
+        The 3rd Defendant further avers that the execution of the Power of Attorney was preceded by several family meetings convened to deliberate on the management of the Estate. The 3rd Defendant contends that the Claimants were not only aware of but were actively present at these meetings and offered no objection to the appointment of the 3rd Defendant or the terms of the Power of Attorney, thereby acquiescing to the arrangement.
+
+        The 3rd Defendant further avers that the Claimants have failed, refused, and/or neglected to contribute to the upkeep and maintenance of the Estate. Conversely, the Claimants have resorted to self-help and the deliberate disruption of the lawful development of the property through recalcitrant behavior, including but not limited to physical assaults on the 3rd Defendant, family members, and contracted workmen. The 3rd Defendant further contends that the Claimants have caused a breach of public peace and maliciously defaced the property with defamatory inscriptions, all in a bid to frustrate the valid administration of the Estate.
+
+
+        The 3rd Defendant further avers that the Claimants have consistently resorted to extreme violence, criminal intimidation, and physical assaults to frustrate the management of the Estate. In particular, the Claimants:
+
+        Violently assaulted the 1st Defendant (their eldest brother) at a family meeting, occasioning grievous bodily harm, permanent dental damage, and loss and damage to his personal effects and vital Estate documents;
+
+        Subjected the 1st Defendant to inhumane and degrading treatment by dousing him with water and forcibly throwing him into a gutter;
+
+        Issued direct threats to the life of the 3rd Defendant, necessitating a formal criminal petition to the Police; and
+
+        Threatened the 4th Defendant with gruesome physical disfigurement and the pouring of corrosive substances on his person and remains.
+
+
+        The 3rd Defendant avers that the Claimants have consistently engaged in acts of lawlessness and the employment of hoodlums (area boys) and members of the Oodua Peoples Congress (OPC) to obstruct the lawful administration of the Estate. In particular, the 3rd Defendant contends that:
+
+        The 1st Claimant mobilized thugs to violently prevent contractors from delivering building materials to the Estate, thereby overawing and threatening the lives of the said contractors;
+
+        The Claimants’ actions resulted in the malicious damage of construction materials and a total breakdown of law and order on the premises, necessitating the intervention of the Police Task Force; and
+
+        The 1st Claimant, his wife, and son were subsequently arrested by the Police Task Force for constituting a public nuisance, breach of peace, and exhibiting gross insubordination and disrespect to constituted authority.
+
+        
