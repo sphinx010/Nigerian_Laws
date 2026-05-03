@@ -337,7 +337,6 @@ The text is not represented as an official gazetted consolidation. It is a LexTu
 <a id="section-1"></a>
 ### Section 1 - Evidence may be given of facts in issue and relevant facts
 
-> Source: https://www.lawglobalhub.com/section-1-evidence-act-2011/
 
 Evidence may be given in any suit or proceeding of the existence or non-existence of every fact in issue and of such other facts as are hereafter declared to be relevant, and of no others:Provided that -
   - <a id="section-1-para-a"></a> **(a)** the court may exclude evidence of facts which though relevant or deemed to be relevant to the issue, appears to it to be too remote to be material in all the circumstances of the case; and
@@ -347,7 +346,6 @@ Evidence may be given in any suit or proceeding of the existence or non-existenc
 <a id="section-2"></a>
 ### Section 2 - Evidence in accordance with section 1 generally admissible
 
-> Source: https://www.lawglobalhub.com/section-2-evidence-act-2011/
 
 For the avoidance of doubt, all evidence given in accordance with section 1 shall, unless excluded in accordance with this or any other Act, or any other legislation validly in force in Nigeria, be admissible in judicial proceedings to which this Act applies:Provided that admissibility of such evidence shall be subject to all such conditions as may be specified in each case by or under this Act.
 
@@ -355,7 +353,6 @@ For the avoidance of doubt, all evidence given in accordance with section 1 shal
 <a id="section-3"></a>
 ### Section 3 - Admissibility of evidence under other legislation
 
-> Source: https://www.lawglobalhub.com/section-3-evidence-act-2011/
 
 Nothing in this Act shall prejudice the admissibility of any evidence that is made admissible by any other legislation validly in force in Nigeria.
 
@@ -369,7 +366,6 @@ Nothing in this Act shall prejudice the admissibility of any evidence that is ma
 <a id="section-4"></a>
 ### Section 4 - Relevance of facts forming part of same transaction
 
-> Source: https://www.lawglobalhub.com/section-4-evidence-act-2011/
 
 Facts which, though not in issue, are so connected with a fact in issue as to form part of the same transaction, are relevant, whether they occurred at the same time and place or at different times and places.
 
@@ -377,7 +373,6 @@ Facts which, though not in issue, are so connected with a fact in issue as to fo
 <a id="section-5"></a>
 ### Section 5 - Facts which are the occasion, cause or effect or facts in issue
 
-> Source: https://www.lawglobalhub.com/section-5-evidence-act-2011/
 
 Facts which are the occasion, cause or effect, immediate or otherwise, of relevant facts, or facts in issue, or which constitute the state of things under which they happened, or which afforded an opportunity for their occurrence or transaction, are relevant.
 
@@ -385,7 +380,6 @@ Facts which are the occasion, cause or effect, immediate or otherwise, of releva
 <a id="section-6"></a>
 ### Section 6 - Motive, preparation and previous or subsequent conduct
 
-> Source: https://www.lawglobalhub.com/section-6-evidence-act-2011/
 
 
 <a id="section-6-sub-1"></a>
@@ -406,7 +400,6 @@ Facts which are the occasion, cause or effect, immediate or otherwise, of releva
 <a id="section-7"></a>
 ### Section 7 - Facts necessary to explain or introduce relevant facts
 
-> Source: https://www.lawglobalhub.com/section-7-evidence-act-2011/
 
 Facts -
   - <a id="section-7-para-a"></a> **(a)** necessary to explain or introduce a fact in issue or relevant fact; or
@@ -419,7 +412,6 @@ Facts -
 <a id="section-8"></a>
 ### Section 8 - Things said or done by conspirator in reference to common intention
 
-> Source: https://www.lawglobalhub.com/section-8-evidence-act-2011/
 
 
 <a id="section-8-sub-1"></a>
@@ -440,7 +432,6 @@ Facts -
 <a id="section-9"></a>
 ### Section 9 - When facts not otherwise relevant become relevant
 
-> Source: https://www.lawglobalhub.com/section-9-evidence-act-2011/
 
 Facts not otherwise relevant are relevant -
   - <a id="section-9-para-a"></a> **(a)** if they are inconsistent with any fact in issue or relevant fact;
@@ -450,7 +441,6 @@ Facts not otherwise relevant are relevant -
 <a id="section-10"></a>
 ### Section 10 - Certain facts relevant in proceedings for damages
 
-> Source: https://www.lawglobalhub.com/section-10-evidence-act-2011/
 
 In proceedings in which damages are claimed any fact which will enable the court to determine the amount of damages which ought to be awarded is relevant.
 
@@ -458,7 +448,6 @@ In proceedings in which damages are claimed any fact which will enable the court
 <a id="section-11"></a>
 ### Section 11 - Facts showing existence of state of mind, body or bodily feeling
 
-> Source: https://www.lawglobalhub.com/section-11-evidence-act-2011/
 
 
 <a id="section-11-sub-1"></a>
@@ -473,7 +462,6 @@ In proceedings in which damages are claimed any fact which will enable the court
 <a id="section-12"></a>
 ### Section 12 - Facts bearing on question whether act was accidental or intentional
 
-> Source: https://www.lawglobalhub.com/section-12-evidence-act-2011/
 
 When there is a question whether an act was accidental or intentional, or done with a particular knowledge or intention or to rebut any defence that may otherwise be open to the defendant, the fact that such act formed part of a series of similar occurrences, in each of which the person doing the act was concerned, is relevant.
 
@@ -481,7 +469,6 @@ When there is a question whether an act was accidental or intentional, or done w
 <a id="section-13"></a>
 ### Section 13 - Existence of course of business when relevant
 
-> Source: https://www.lawglobalhub.com/section-13-evidence-act-2011/
 
 When there is a question whether a particular act was done, the existence of any course of business, according to which it naturally would have been done, is a relevant fact.
 
@@ -495,7 +482,6 @@ When there is a question whether a particular act was done, the existence of any
 <a id="section-14"></a>
 ### Section 14 - Discretion to exclude improperly obtained evidence
 
-> Source: https://www.lawglobalhub.com/section-14-evidence-act-2011/
 
 Evidence obtained -
   - <a id="section-14-para-a"></a> **(a)** improperly or in contravention of a law; or
@@ -505,7 +491,6 @@ Evidence obtained -
 <a id="section-15"></a>
 ### Section 15 - Matters court to take into account under section 14
 
-> Source: https://www.lawglobalhub.com/section-15-evidence-act-2011/
 
 For the purposes of section 14, the matters that the court shall take into account include -
   - <a id="section-15-para-a"></a> **(a)** the probative value of the evidence;
@@ -520,7 +505,6 @@ For the purposes of section 14, the matters that the court shall take into accou
 <a id="section-16"></a>
 ### Section 16 - What customs admissible
 
-> Source: https://www.lawglobalhub.com/section-16-evidence-act-2011/
 
 
 <a id="section-16-sub-1"></a>
@@ -533,7 +517,6 @@ For the purposes of section 14, the matters that the court shall take into accou
 <a id="section-17"></a>
 ### Section 17 - Judicial notice of custom
 
-> Source: https://www.lawglobalhub.com/section-17-evidence-act-2011/
 
 A custom may be judicially noticed when it has been adjudicated upon once by a superior court of record.
 
@@ -541,7 +524,6 @@ A custom may be judicially noticed when it has been adjudicated upon once by a s
 <a id="section-18"></a>
 ### Section 18 - Evidence of customs
 
-> Source: https://www.lawglobalhub.com/section-18-evidence-act-2011/
 
 
 <a id="section-18-sub-1"></a>
@@ -557,7 +539,6 @@ A custom may be judicially noticed when it has been adjudicated upon once by a s
 <a id="section-19"></a>
 ### Section 19 - Relevant facts as to how matter alleged to be custom understood
 
-> Source: https://www.lawglobalhub.com/section-19-evidence-act-2011/
 
 Every fact is deemed to be relevant which tends to show how in particular instances a matter alleged to be a custom was understood and acted upon by persons then interested.
 
@@ -565,7 +546,6 @@ Every fact is deemed to be relevant which tends to show how in particular instan
 <a id="section-20"></a>
 ### Section 20 - Admission defined
 
-> Source: https://www.lawglobalhub.com/section-20-evidence-act-2011/
 
 An admission is a statement, oral or documentary, or conduct which suggests any inference as to any fact in issue or relevant fact, and which is made by any of the persons, and in the circumstances, hereafter mentioned in this Act.
 
@@ -573,7 +553,6 @@ An admission is a statement, oral or documentary, or conduct which suggests any 
 <a id="section-21"></a>
 ### Section 21 - Admission by privies
 
-> Source: https://www.lawglobalhub.com/section-21-evidence-act-2011/
 
 
 <a id="section-21-sub-1"></a>
@@ -593,7 +572,6 @@ An admission is a statement, oral or documentary, or conduct which suggests any 
 <a id="section-22"></a>
 ### Section 22 - Admissions by persons whose position must be proved as against party to suit
 
-> Source: https://www.lawglobalhub.com/section-22-evidence-act-2011/
 
 Statements made by persons whose position or liability it is necessary to prove as against any party to the suit are admissions if such statements would be relevant as against such persons in relation to such position or liability in a suit brought by or against them, and if they are made whilst the person making them occupies such position or is subject to such liability.
 
@@ -601,7 +579,6 @@ Statements made by persons whose position or liability it is necessary to prove 
 <a id="section-23"></a>
 ### Section 23 - Admissions by persons expressly referred to by party to suit
 
-> Source: https://www.lawglobalhub.com/section-23-evidence-act-2011/
 
 Statements made by persons to whom a party to the suit has expressly referred for information in reference to a matter in dispute are admissions.
 
@@ -609,7 +586,6 @@ Statements made by persons to whom a party to the suit has expressly referred fo
 <a id="section-24"></a>
 ### Section 24 - Proof of admissions against persons making them, and by or on their behalf
 
-> Source: https://www.lawglobalhub.com/section-24-evidence-act-2011/
 
 Admissions are relevant and may be proved as against the person who makes them or his representative in interest, but they cannot be proved by or on behalf of the person who makes them or by his representative in interest, except in the following cases -
 
@@ -623,7 +599,6 @@ c. an admission may be proved by or on behalf of the person making it, if it is 
 <a id="section-25"></a>
 ### Section 25 - When oral admissions as to contents of documents are relevant
 
-> Source: https://www.lawglobalhub.com/section-25-evidence-act-2011/
 
 Oral admissions as to the contents of a document are not relevant, unless and until the party proposing to prove them shows that he is entitled to give secondary evidence of the contents of such document under Part V or unless the genuineness of a document produced is in question.
 
@@ -631,7 +606,6 @@ Oral admissions as to the contents of a document are not relevant, unless and un
 <a id="section-26"></a>
 ### Section 26 - Admissions in civil cases, when relevant
 
-> Source: https://www.lawglobalhub.com/section-26-evidence-act-2011/
 
 In civil cases no admission is relevant, if it is made either upon an express condition that evidence of it is not to be given, or in circumstances from which the court can infer that the parties agreed together that evidence of it should not be given:
 
@@ -641,7 +615,6 @@ Provided that nothing in this section shall be taken to exempt any legal practit
 <a id="section-27"></a>
 ### Section 27 - Admissions not conclusive proof; but may estop
 
-> Source: https://www.lawglobalhub.com/section-27-evidence-act-2011/
 
 Admissions are not conclusive proof of the matters admitted but they may operate as estoppel under Part X.
 
@@ -649,7 +622,6 @@ Admissions are not conclusive proof of the matters admitted but they may operate
 <a id="section-28"></a>
 ### Section 28 - Confession defined
 
-> Source: https://www.lawglobalhub.com/section-28-evidence-act-2011/
 
 A confession is an admission made at any time by a person charged with a crime, stating or suggesting the inference that he committed that crime.
 
@@ -657,7 +629,6 @@ A confession is an admission made at any time by a person charged with a crime, 
 <a id="section-29"></a>
 ### Section 29 - When confession is relevant
 
-> Source: https://www.lawglobalhub.com/section-29-evidence-act-2011/
 
 
 <a id="section-29-sub-1"></a>
@@ -690,7 +661,6 @@ A confession is an admission made at any time by a person charged with a crime, 
 <a id="section-30"></a>
 ### Section 30 - Facts discovered in consequence of information given by defendant
 
-> Source: https://www.lawglobalhub.com/section-30-evidence-act-2011/
 
 Where information is received from a person who is accused of an offence, whether such person is in custody or not, and as a consequence of such information any fact is discovered, the discovery of that fact, together with evidence that such discovery was made in consequence of the information received from the defendant, may be given in evidence where such information itself would not be admissible in evidence.
 
@@ -698,7 +668,6 @@ Where information is received from a person who is accused of an offence, whethe
 <a id="section-31"></a>
 ### Section 31 - Confession otherwise relevant not to become irrelevant because of promise of secrecy, etc
 
-> Source: https://www.lawglobalhub.com/section-31-evidence-act-2011/
 
 If a confession is otherwise relevant, it does not become irrelevant merely because it was made under a promise of secrecy, or in consequence of a deception practised on the defendant for the purpose of obtaining it, or when he was drunk, or because it was made in answer to questions which he need not have answered, whatever may have been the form of these questions, or because he was not warned that he was not bound to make such statement and that evidence of it might be given.
 
@@ -706,7 +675,6 @@ If a confession is otherwise relevant, it does not become irrelevant merely beca
 <a id="section-32"></a>
 ### Section 32 - Evidence in other proceedings amounting to a confession is admissible
 
-> Source: https://www.lawglobalhub.com/section-32-evidence-act-2011/
 
 Evidence amounting to a confession may be used as such against the person who gives it, although it was given upon oath, and although the proceeding in which it was given had reference to the same subject - matter as the proceeding in which it is to be proved, and although the witness might have refused to answer the question put to him; but if, after refusing to answer any such question the witness is improperly compelled to answer it, his answer is not admissible as a confession.
 
@@ -714,7 +682,6 @@ Evidence amounting to a confession may be used as such against the person who gi
 <a id="section-33"></a>
 ### Section 33 - What evidence to be given when statement forms part of a conversation, document, book or series of letters or papers
 
-> Source: https://www.lawglobalhub.com/section-33-evidence-act-2011/
 
 When any statement of which evidence is given forms part of a longer statement, or of a conversation or part of an isolated document or is contained in a document which forms part of a book, or of a connected series of letters or papers, evidence shall be given of so much and no more of the statement, conversation, document, book or series of letters or papers as the court considers necessary in that particular case to the full understanding of the nature and effect of the statement, and of the circumstances in which it was made.
 
@@ -722,7 +689,6 @@ When any statement of which evidence is given forms part of a longer statement, 
 <a id="section-34"></a>
 ### Section 34 - Weight to be attached to admissible statements
 
-> Source: https://www.lawglobalhub.com/section-34-evidence-act-2011/
 
 
 <a id="section-34-sub-1"></a>
@@ -740,7 +706,6 @@ When any statement of which evidence is given forms part of a longer statement, 
 <a id="section-35"></a>
 ### Section 35 - Acts of possession and enjoyment of land may be evidence
 
-> Source: https://www.lawglobalhub.com/section-35-evidence-act-2011/
 
 Acts of possession and enjoyment of land may be evidence of ownership or of a right of occupancy not only of the particular piece or quantity of land with reference to which such acts are done, but also of other land so situated or connected with it by locality or similarity that what is true as to the one piece of land is likely to be true of the other piece of land.
 
@@ -748,7 +713,6 @@ Acts of possession and enjoyment of land may be evidence of ownership or of a ri
 <a id="section-36"></a>
 ### Section 36 - Evidence of scienter upon charge of receiving stolen property
 
-> Source: https://www.lawglobalhub.com/section-36-evidence-act-2011/
 
 
 <a id="section-36-sub-1"></a>
@@ -776,7 +740,6 @@ Acts of possession and enjoyment of land may be evidence of ownership or of a ri
 <a id="section-37"></a>
 ### Section 37 - Hearsay defined
 
-> Source: https://www.lawglobalhub.com/section-37-evidence-act-2011/
 
 Hearsay means a statement -
   - <a id="section-37-para-a"></a> **(a)** oral or written made otherwise than by a witness in a proceeding; or
@@ -786,7 +749,6 @@ Hearsay means a statement -
 <a id="section-38"></a>
 ### Section 38 - Hearsay rule
 
-> Source: https://www.lawglobalhub.com/section-38-evidence-act-2011/
 
 Hearsay evidence is not admissible except as provided in this Part or by or under any Hearsay ruleother provision of this or any other Act.
 
@@ -794,7 +756,6 @@ Hearsay evidence is not admissible except as provided in this Part or by or unde
 <a id="section-39"></a>
 ### Section 39 - Statements by persons who cannot be called as witnesses
 
-> Source: https://www.lawglobalhub.com/section-39-evidence-act-2011/
 
 Statements, whether written or oral of facts in issue or relevant facts made by a person -
   - <a id="section-39-para-a"></a> **(a)** who is dead;
@@ -806,7 +767,6 @@ Statements, whether written or oral of facts in issue or relevant facts made by 
 <a id="section-40"></a>
 ### Section 40 - Statements relating to cause of death
 
-> Source: https://www.lawglobalhub.com/section-40-evidence-act-2011/
 
 
 <a id="section-40-sub-1"></a>
@@ -822,7 +782,6 @@ Statements, whether written or oral of facts in issue or relevant facts made by 
 <a id="section-41"></a>
 ### Section 41 - Statements made in the course of business
 
-> Source: https://www.lawglobalhub.com/section-41-evidence-act-2011/
 
 A statement is admissible when made by a person in the ordinary course of business, and in particular when it consists of any entry or memorandum made by him in books, electronic device or record kept in the ordinary course of business, or in the discharge of a professional duty; or of an acknowledgment written or signed by him of the receipt of money, goods, securities or property of any kind; or of a document used in commerce written or signed by him; or of the date of a letter or other document usually dated, written or signed by him:
 
@@ -832,7 +791,6 @@ Provided that the maker made the statement contemporaneously with the transactio
 <a id="section-42"></a>
 ### Section 42 - Statement against interest of maker with special knowledge
 
-> Source: https://www.lawglobalhub.com/section-42-evidence-act-2011/
 
 A statement is admissible where the maker had peculiar means of knowing the matterstated and such statement is against his pecuniary or proprietary interest and-
   - <a id="section-42-para-a"></a> **(a)** he had no interest to misrepresent the matter: or
@@ -842,7 +800,6 @@ A statement is admissible where the maker had peculiar means of knowing the matt
 <a id="section-43"></a>
 ### Section 43 - Statements of opinions as to public right or custom and matters of general interest
 
-> Source: https://www.lawglobalhub.com/section-43-evidence-act-2011/
 
 
 <a id="section-43-sub-1"></a>
@@ -859,7 +816,6 @@ A statement is admissible where the maker had peculiar means of knowing the matt
 <a id="section-44"></a>
 ### Section 44 - Statements relating to the existence of a relationship
 
-> Source: https://www.lawglobalhub.com/section-44-evidence-act-2011/
 
 
 <a id="section-44-sub-1"></a>
@@ -887,7 +843,6 @@ Provided that -
 <a id="section-45"></a>
 ### Section 45 - Declarations by testators
 
-> Source: https://www.lawglobalhub.com/section-45-evidence-act-2011/
 
 
 <a id="section-45-sub-1"></a>
@@ -904,7 +859,6 @@ Provided that -
 <a id="section-46"></a>
 ### Section 46 - Admissibility of certain evidence for proving, in subsequent proceeding, the truth of facts stated in it
 
-> Source: https://www.lawglobalhub.com/section-46-evidence-act-2011/
 
 
 <a id="section-46-sub-1"></a>
@@ -923,7 +877,6 @@ Provided that -
 <a id="section-47"></a>
 ### Section 47 - When statement made under any criminal procedure legislation may be used in evidence
 
-> Source: https://www.lawglobalhub.com/section-47-evidence-act-2011/
 
 A statement in accordance with sections 290 and 291 or section 319 of the Criminal Procedure Act, may afterwards be used in evidence on the trial, of any person accused of an offence to which the same relates, if the person who made the statement cannot be called for any of the reasons specified in section 39, and if reasonable notice of the intention to take such statement was served upon the person against whom it is to be read in evidence and he had, or might have had, if he had chosen to be present, full opportunity of cross - examining the person making the statement.
 
@@ -931,7 +884,6 @@ A statement in accordance with sections 290 and 291 or section 319 of the Crimin
 <a id="section-48"></a>
 ### Section 48 - Statement of defendant at preliminary investigation or coroner's inquest
 
-> Source: https://www.lawglobalhub.com/section-48-evidence-act-2011/
 
 Any statement made by a defendant at a preliminary investigation or at a coroner's inquest may be given in evidence.
 
@@ -939,7 +891,6 @@ Any statement made by a defendant at a preliminary investigation or at a coroner
 <a id="section-49"></a>
 ### Section 49 - Admission of written statements of investigating police officers in certain cases
 
-> Source: https://www.lawglobalhub.com/section-49-evidence-act-2011/
 
 Notwithstanding anything contained in this Act or any other law but subject to this section, where in the course of any criminal trial, the court is satisfied that for any sufficient reason, the attendance of the investigating police officer cannot be procured; the written and signed statement of such officer may be admitted in evidence by the court if -
   - <a id="section-49-para-a"></a> **(a)** the defence does not object to the statement being admitted; and
@@ -949,7 +900,6 @@ Notwithstanding anything contained in this Act or any other law but subject to t
 <a id="section-50"></a>
 ### Section 50 - Absence of public officers
 
-> Source: https://www.lawglobalhub.com/section-50-evidence-act-2011/
 
 In the case of a person employed in the public service of the Federation or of a State who is required to give evidence for any purpose connected with a judicial proceeding, it shall be sufficient to account for his non - attendance at the hearing of the said judicial proceeding if there is produced to the court either a Federal or State Gazette, telegram, an e - mail or letter purporting to emanate from the head of his department, sufficiently explaining to the satisfaction of the court his apparent default.
 
@@ -957,7 +907,6 @@ In the case of a person employed in the public service of the Federation or of a
 <a id="section-51"></a>
 ### Section 51 - Statements made in special circumstances entries in books of account
 
-> Source: https://www.lawglobalhub.com/section-51-evidence-act-2011/
 
 Entries in books of accounts or electronic records regularly kept in the course of business are admissible whenever they refer to a matter into which the court has to inquire, but such statements may not alone be sufficient evidence to charge any person with liability.
 
@@ -965,7 +914,6 @@ Entries in books of accounts or electronic records regularly kept in the course 
 <a id="section-52"></a>
 ### Section 52 - Entry in public records made in performance of duty
 
-> Source: https://www.lawglobalhub.com/section-52-evidence-act-2011/
 
 An entry in any public or other official book, register or record, including electronic record, stating a fact in issue or relevant fact and made by a public servant in the discharge of his official duty, or by any other person in the performance of a duty specially enjoined by the law of the country in which such book, register or record is kept, is itself admissible.
 
@@ -973,7 +921,6 @@ An entry in any public or other official book, register or record, including ele
 <a id="section-53"></a>
 ### Section 53 - Statements in maps, charts and plans
 
-> Source: https://www.lawglobalhub.com/section-53-evidence-act-2011/
 
 Statements of facts in issue or relevant facts made in published maps or charts generally offered for public sale, or in maps or plans made under the authority of Government, as to matters usually represented or stated in such maps, charts or plans, are themselves admissible.
 
@@ -981,7 +928,6 @@ Statements of facts in issue or relevant facts made in published maps or charts 
 <a id="section-54"></a>
 ### Section 54 - Statement as to fact of public nature contained in certain acts or notifications
 
-> Source: https://www.lawglobalhub.com/section-54-evidence-act-2011/
 
 When the court has to form an opinion as to the existence of any fact of a public nature, any statement of it, made in a recital contained in any enactment or in any proclamation or speech of the President in opening the National Assembly, or in any proclamation or speech, or in any statement made in a Government or public notice appearing in the Federal Gazette or in a State notice or a State public notice appearing in a State Gazette or the Government Gazette of any other country is admissible
 
@@ -989,7 +935,6 @@ When the court has to form an opinion as to the existence of any fact of a publi
 <a id="section-55"></a>
 ### Section 55 - Certificates of specified government officers to be sufficient evidence in all criminal cases
 
-> Source: https://www.lawglobalhub.com/section-55-evidence-act-2011/
 
 
 <a id="section-55-sub-1"></a>
@@ -1030,7 +975,6 @@ When the court has to form an opinion as to the existence of any fact of a publi
 <a id="section-56"></a>
 ### Section 56 - Certificates of Central Bank officers as evidence in criminal cases
 
-> Source: https://www.lawglobalhub.com/section-56-evidence-act-2011/
 
 Where in criminal proceedings a certificate purports to be signed by an officer of the Central Bank of Nigeria who himself adds after his signature the words "duly authorised by the Governor of the Central Bank of Nigeria" it shall be accepted by all courts and persons as sufficient evidence of the facts stated in the certificate, and no certificate shall be questioned on the ground only of the authorisation; but subject to this, section 55(3) shall have effect with regard to any such certificate.
 
@@ -1038,7 +982,6 @@ Where in criminal proceedings a certificate purports to be signed by an officer 
 <a id="section-57"></a>
 ### Section 57 - Service of certificates on other party before hearing
 
-> Source: https://www.lawglobalhub.com/section-57-evidence-act-2011/
 
 Where any such certificate as is mentioned in section 55 or 56 is intended to be produced by either party to the proceedings, a copy of it shall be served on the other party at least ten clear days before the day appointed for the hearing and if it is not so sent the court may, if it thinks fit, adjourn the hearing on such terms as may seem proper.
 
@@ -1046,7 +989,6 @@ Where any such certificate as is mentioned in section 55 or 56 is intended to be
 <a id="section-58"></a>
 ### Section 58 - Genuineness of certificates to be presumed
 
-> Source: https://www.lawglobalhub.com/section-58-evidence-act-2011/
 
 The court shall, in the absence of evidence to the contrary, presume that the signature to any such certificate as is mentioned in sections 55 and 56 is genuine and that the person signing it held the office or authority which he professed at the time when he signed it.
 
@@ -1054,7 +996,6 @@ The court shall, in the absence of evidence to the contrary, presume that the si
 <a id="section-59"></a>
 ### Section 59 - Previous judgments admissible to bar a second suit or trial
 
-> Source: https://www.lawglobalhub.com/section-59-evidence-act-2011/
 
 The existence of any judgment, order or decree which by law prevents any court from taking cognisance of a suit or holding a trial, is a relevant fact, evidence of which is admissible when the question is whether such court ought to take cognisance of such suit or to hold such trial.
 
@@ -1062,7 +1003,6 @@ The existence of any judgment, order or decree which by law prevents any court f
 <a id="section-60"></a>
 ### Section 60 - Admissibility of certain Judgments in certain jurisdictions
 
-> Source: https://www.lawglobalhub.com/section-60-evidence-act-2011/
 
 
 <a id="section-60-sub-1"></a>
@@ -1080,7 +1020,6 @@ The existence of any judgment, order or decree which by law prevents any court f
 <a id="section-61"></a>
 ### Section 61 - Admissibility and effect of judgments other than those mentioned in section 60
 
-> Source: https://www.lawglobalhub.com/section-61-evidence-act-2011/
 
 Judgments, orders or decrees other than those mentioned in section 60 are admissible if they relate to matters of a public nature relevant to the inquiry; but such judgments, orders or decrees are not conclusive proof of that which they state.
 
@@ -1088,7 +1027,6 @@ Judgments, orders or decrees other than those mentioned in section 60 are admiss
 <a id="section-62"></a>
 ### Section 62 - Judgment, etc, other than those mentioned in sections 59 to 61, when admissible
 
-> Source: https://www.lawglobalhub.com/section-62-evidence-act-2011/
 
 Judgments, orders or decrees, other than those mentioned in sections 59,60 and 61 are inadmissible unless existence of such judgment, order or decree is a fact in issue, or is admissible under some other provision of this or any other Act.
 
@@ -1096,7 +1034,6 @@ Judgments, orders or decrees, other than those mentioned in sections 59,60 and 6
 <a id="section-63"></a>
 ### Section 63 - Conviction as evidence in civil proceedings
 
-> Source: https://www.lawglobalhub.com/section-63-evidence-act-2011/
 
 
 <a id="section-63-sub-1"></a>
@@ -1114,7 +1051,6 @@ Judgments, orders or decrees, other than those mentioned in sections 59,60 and 6
 <a id="section-64"></a>
 ### Section 64 - Fraud or collusion in obtaining judgment, or non-jurisdiction of court, may be proved
 
-> Source: https://www.lawglobalhub.com/section-64-evidence-act-2011/
 
 Any party to a suit or other proceeding may show that any judgment, order or decree which is admissible under section 59, 60 or 61 and which has been proved by the adverse party, was delivered by a court without jurisdiction, or was obtained by fraud or collusion.
 
@@ -1122,7 +1058,6 @@ Any party to a suit or other proceeding may show that any judgment, order or dec
 <a id="section-65"></a>
 ### Section 65 - Judgment conclusive in favour of judge
 
-> Source: https://www.lawglobalhub.com/section-65-evidence-act-2011/
 
 When any action is brought against any person for anything done by him in a judicial capacity, the judgment delivered, and the proceedings antecedent to it, are conclusive proof of the facts stated in such judgment, whether they are or are not necessary to give the defendant jurisdiction, if assuming them to be true, they show that he had jurisdiction.
 
@@ -1130,7 +1065,6 @@ When any action is brought against any person for anything done by him in a judi
 <a id="section-66"></a>
 ### Section 66 - Family or communal tradition admissible in land cases
 
-> Source: https://www.lawglobalhub.com/section-66-evidence-act-2011/
 
 Where the title to or interest in family or communal land is in issue, oral evidence of family or communal tradition concerning such title or interest is admissible.
 
@@ -1138,7 +1072,6 @@ Where the title to or interest in family or communal land is in issue, oral evid
 <a id="section-67"></a>
 ### Section 67 - Opinion inadmissible except as provided in this Act
 
-> Source: https://www.lawglobalhub.com/section-67-evidence-act-2011/
 
 The opinion of any person as to the existence or non - existence of a fact in issue or relevant to the fact in issue is inadmissible except as provided in sections 68 to 76 of this Act.
 
@@ -1146,7 +1079,6 @@ The opinion of any person as to the existence or non - existence of a fact in is
 <a id="section-68"></a>
 ### Section 68 - Opinions of experts, when admissible
 
-> Source: https://www.lawglobalhub.com/section-68-evidence-act-2011/
 
 When the court has to form an opinion upon a point of foreign law, customary law or custom, or of science or art, or as to identity of handwriting or finger impressions, the opinions upon that point of persons specially skilled in such foreign law, customary law or custom, or science or art, or in questions as to identity of handwriting or finger impressions, are admissible.
 
@@ -1161,7 +1093,6 @@ When the court has to form an opinion upon a point of foreign law, customary law
 <a id="section-69"></a>
 ### Section 69 - Opinions as to foreign law
 
-> Source: https://www.lawglobalhub.com/section-69-evidence-act-2011/
 
 Where there is a question as to foreign law the opinions of experts who in their profession are acquainted with such law are admissible evidence of it, though such experts may produce to the court books which they declare to be works of authority upon the foreign law in question, which books the court, having received all necessary explanations from the expert, may construe for itself.
 
@@ -1169,7 +1100,6 @@ Where there is a question as to foreign law the opinions of experts who in their
 <a id="section-70"></a>
 ### Section 70 - Opinions as to customary law and custom
 
-> Source: https://www.lawglobalhub.com/section-70-evidence-act-2011/
 
 In deciding questions of customary law and custom the opinions of traditional rulers or chiefs or other persons having special knowledge of the customary law and custom and any book or manuscript recognised as legal authority by people indigenous to the locality in which such law or custom applies, are admissible.
 
@@ -1177,7 +1107,6 @@ In deciding questions of customary law and custom the opinions of traditional ru
 <a id="section-71"></a>
 ### Section 71 - Facts bearing upon opinions of experts
 
-> Source: https://www.lawglobalhub.com/section-71-evidence-act-2011/
 
 Facts not otherwise relevant are relevant if they support or are inconsistent with the opinions of experts, when such opinions are admissible.
 
@@ -1185,7 +1114,6 @@ Facts not otherwise relevant are relevant if they support or are inconsistent wi
 <a id="section-72"></a>
 ### Section 72 - Opinion as to handwriting, when admissible
 
-> Source: https://www.lawglobalhub.com/section-72-evidence-act-2011/
 
 
 <a id="section-72-sub-1"></a>
@@ -1199,7 +1127,6 @@ Facts not otherwise relevant are relevant if they support or are inconsistent wi
 <a id="section-73"></a>
 ### Section 73 - Opinion as to existence of "general custom or right" when admissible
 
-> Source: https://www.lawglobalhub.com/section-73-evidence-act-2011/
 
 
 <a id="section-73-sub-1"></a>
@@ -1213,7 +1140,6 @@ Facts not otherwise relevant are relevant if they support or are inconsistent wi
 <a id="section-74"></a>
 ### Section 74 - Opinions as to usages and tenets, when admissible
 
-> Source: https://www.lawglobalhub.com/section-74-evidence-act-2011/
 
 When the court has to form an opinion as to -
   - <a id="section-74-para-a"></a> **(a)** the usages and tenets of any body of men or family; or
@@ -1224,7 +1150,6 @@ When the court has to form an opinion as to -
 <a id="section-75"></a>
 ### Section 75 - Opinion on relationship, when admissible
 
-> Source: https://www.lawglobalhub.com/section-75-evidence-act-2011/
 
 When the court has to form an opinion as to the relationship of one person to another, the opinion expressed by conduct, as to the existence of such relationship of any person who, as a member of the family or otherwise, has special means of knowledge on the subject, is admissible:
 
@@ -1234,7 +1159,6 @@ Provided that such opinion shall not be sufficient to prove a marriage in procee
 <a id="section-76"></a>
 ### Section 76 - Grounds of opinion when admissible
 
-> Source: https://www.lawglobalhub.com/section-76-evidence-act-2011/
 
 Whenever the opinion of any living person is admissible, the grounds on which such opinion is based are also admissible.
 
@@ -1242,7 +1166,6 @@ Whenever the opinion of any living person is admissible, the grounds on which su
 <a id="section-77"></a>
 ### Section 77 - Character defined
 
-> Source: https://www.lawglobalhub.com/section-77-evidence-act-2011/
 
 In sections 78 to 82, the expression "character" means reputation as distinguished from disposition, and except as mentioned in those sections, evidence may be given only of general reputation, and not of particular acts by which reputation or disposition is shown.
 
@@ -1250,7 +1173,6 @@ In sections 78 to 82, the expression "character" means reputation as distinguish
 <a id="section-78"></a>
 ### Section 78 - In civil cases, evidence of character generally inadmissible
 
-> Source: https://www.lawglobalhub.com/section-78-evidence-act-2011/
 
 In civil cases evidence of the fact that the character of any person concerned is such as to render probable or improbable any conduct imputed to him is inadmissible except in so far as such character appears from facts otherwise relevant.
 
@@ -1258,7 +1180,6 @@ In civil cases evidence of the fact that the character of any person concerned i
 <a id="section-79"></a>
 ### Section 79 - Character as affecting damages
 
-> Source: https://www.lawglobalhub.com/section-79-evidence-act-2011/
 
 Notwithstanding section 78, in civil cases the fact that the character of any person is such as to affect the amount of damages which he ought to receive may be given in evidence.
 
@@ -1266,7 +1187,6 @@ Notwithstanding section 78, in civil cases the fact that the character of any pe
 <a id="section-80"></a>
 ### Section 80 - In libel and slander, notice must be given of evidence of character
 
-> Source: https://www.lawglobalhub.com/section-80-evidence-act-2011/
 
 In actions for libel and slander in which the defendant does not by his defence assert the truth of the statement complained of, the defendant is not entitled on the trial to give evidence in chief with a view to mitigation of damages, as to the circumstances under which the libel or slander was published, or as to the character of the plaintiff, without the leave of the judge, unless seven days at least before the trial he furnishes particulars to the plaintiff of the matters as to which he intends to give evidence.
 
@@ -1274,7 +1194,6 @@ In actions for libel and slander in which the defendant does not by his defence 
 <a id="section-81"></a>
 ### Section 81 - In criminal cases evidence of good character admissible
 
-> Source: https://www.lawglobalhub.com/section-81-evidence-act-2011/
 
 In criminal proceedings evidence of the fact that a defendant is of good character is admissible.
 
@@ -1282,7 +1201,6 @@ In criminal proceedings evidence of the fact that a defendant is of good charact
 <a id="section-82"></a>
 ### Section 82 - Evidence of character of the accused in criminal proceedings
 
-> Source: https://www.lawglobalhub.com/section-82-evidence-act-2011/
 
 
 <a id="section-82-sub-1"></a>
@@ -1324,7 +1242,6 @@ In criminal proceedings evidence of the fact that a defendant is of good charact
 <a id="section-83"></a>
 ### Section 83 - Admissibility of documentary evidence as to facts in issue
 
-> Source: https://www.lawglobalhub.com/section-83-evidence-act-2011/
 
 
 <a id="section-83-sub-1"></a>
@@ -1361,7 +1278,6 @@ evidence or may, without any such order having been made, admit such a statement
 <a id="section-84"></a>
 ### Section 84 - Admissibility of statement in document produced by computers [amended; sections 84A-84D inserted by Evidence (Amendment) Act, 2023]
 
-> Source: https://www.lawglobalhub.com/section-84-evidence-act-2011/
 
 
 <a id="section-84-sub-1"></a>
@@ -1414,7 +1330,6 @@ evidence or may, without any such order having been made, admit such a statement
 <a id="section-84a"></a>
 ### Section 84A - Information in electronic form [inserted by Evidence (Amendment) Act, 2023]
 
-> Source: https://www.lawglobalhub.com/section-84-evidence-act-2011/
 
 Where any law provides that information or any other matter shall be in writing or in the typewritten or printed form, then, notwithstanding anything contained in such law, such requirement shall be deemed to have been satisfied if such information or matter is -
 
@@ -1426,7 +1341,6 @@ Where any law provides that information or any other matter shall be in writing 
 <a id="section-84b"></a>
 ### Section 84B - Records in a computer to be admissible [inserted by Evidence (Amendment) Act, 2023]
 
-> Source: https://www.lawglobalhub.com/section-84-evidence-act-2011/
 
 Notwithstanding anything contained in this Act, any information contained in an electronic record which is printed on a paper, stored, recorded or copied in optical or magnetic media or cloud computing or database produced by a computer shall be deemed to also be a document, if the conditions mentioned in this section are satisfied in relation to the information and computer in question and shall be admissible in any proceeding, without further proof or production of the original, as evidence or any contents of theoriginal or of any fact stated in it of which direct evidence would be admissible.
 
@@ -1434,7 +1348,6 @@ Notwithstanding anything contained in this Act, any information contained in an 
 <a id="section-84c"></a>
 ### Section 84C - Authentication of electronic record [inserted by Evidence (Amendment) Act, 2023]
 
-> Source: https://www.lawglobalhub.com/section-84-evidence-act-2011/
 
 
 <a id="section-84c-sub-1"></a>
@@ -1462,7 +1375,6 @@ Notwithstanding anything contained in this Act, any information contained in an 
 <a id="section-84d"></a>
 ### Section 84D - Proof of digital signature [inserted by Evidence (Amendment) Act, 2023]
 
-> Source: https://www.lawglobalhub.com/section-84-evidence-act-2011/
 
 
 <a id="section-84d-sub-1"></a>
@@ -1479,7 +1391,6 @@ Notwithstanding anything contained in this Act, any information contained in an 
 <a id="section-85"></a>
 ### Section 85 - Proof of contents of documents
 
-> Source: https://www.lawglobalhub.com/section-85-evidence-act-2011/
 
 The contents of documents may be proved either by primary or by secondary evidence.
 
@@ -1487,7 +1398,6 @@ The contents of documents may be proved either by primary or by secondary eviden
 <a id="section-86"></a>
 ### Section 86 - Primary evidence
 
-> Source: https://www.lawglobalhub.com/section-86-evidence-act-2011/
 
 
 <a id="section-86-sub-1"></a>
@@ -1509,7 +1419,6 @@ The contents of documents may be proved either by primary or by secondary eviden
 <a id="section-87"></a>
 ### Section 87 - Secondary evidence
 
-> Source: https://www.lawglobalhub.com/section-87-evidence-act-2011/
 
 Secondary evidence includes -
   - <a id="section-87-para-a"></a> **(a)** certified copies given under the provisions hereafter contained in this Act;
@@ -1522,7 +1431,6 @@ Secondary evidence includes -
 <a id="section-88"></a>
 ### Section 88 - Proof of documents by primary evidence
 
-> Source: https://www.lawglobalhub.com/section-88-evidence-act-2011/
 
 Documents shall be proved by primary evidence except in the cases hereafter mentioned in this Act.
 
@@ -1530,7 +1438,6 @@ Documents shall be proved by primary evidence except in the cases hereafter ment
 <a id="section-89"></a>
 ### Section 89 - Cases in which secondary evidence relating to document
 
-> Source: https://www.lawglobalhub.com/section-89-evidence-act-2011/
 
 Secondary evidence may be given of the existence, condition or contents of a document in the following cases -
   - <a id="section-89-para-a"></a> **(a)** when the original is shown or appears to be in the possession or power -
@@ -1548,7 +1455,6 @@ Secondary evidence may be given of the existence, condition or contents of a doc
 <a id="section-90"></a>
 ### Section 90 - Nature of secondary evidence admissible under section 89
 
-> Source: https://www.lawglobalhub.com/section-90-evidence-act-2011/
 
 
 <a id="section-90-sub-1"></a>
@@ -1578,7 +1484,6 @@ Secondary evidence may be given of the existence, condition or contents of a doc
 <a id="section-91"></a>
 ### Section 91 - Rules as to notice to produce
 
-> Source: https://www.lawglobalhub.com/section-91-evidence-act-2011/
 
 Secondary evidence of the contents of the documents referred to in paragraph
   - <a id="section-91-para-a"></a> **(a)** of section 89 shall not be given unless the party proposing to give such secondary evidence has previously given to the party in whose possession or power the document is, or to a legal practitioner employed by such party, such notice to produce it as is prescribed by law, and if no notice to produce is prescribed by law, then such notice as the court considers reasonable in the circumstances of the case:Provided that such notice shall not be required in order to render secondary evidence admissible in any of the following cases, or in any other case in which the court thinks fit to dispense with it -
@@ -1592,7 +1497,6 @@ Secondary evidence of the contents of the documents referred to in paragraph
 <a id="section-92"></a>
 ### Section 92 - Proof that bank has made returns or been duly licensed
 
-> Source: https://www.lawglobalhub.com/section-92-evidence-act-2011/
 
 
 <a id="section-92-sub-1"></a>
@@ -1610,7 +1514,6 @@ Secondary evidence of the contents of the documents referred to in paragraph
 <a id="section-93"></a>
 ### Section 93 - Proof of signature and handwriting and electronic signature [amended by Evidence (Amendment) Act, 2023]
 
-> Source: https://www.lawglobalhub.com/section-93-evidence-act-2011/
 
 
 <a id="section-93-sub-1"></a>
@@ -1628,7 +1531,6 @@ Secondary evidence of the contents of the documents referred to in paragraph
 <a id="section-94"></a>
 ### Section 94 - Identification of person signing a document
 
-> Source: https://www.lawglobalhub.com/section-94-evidence-act-2011/
 
 
 <a id="section-94-sub-1"></a>
@@ -1641,7 +1543,6 @@ Secondary evidence of the contents of the documents referred to in paragraph
 <a id="section-95"></a>
 ### Section 95 - Evidence of sealing and delivery of a document
 
-> Source: https://www.lawglobalhub.com/section-95-evidence-act-2011/
 
 
 <a id="section-95-sub-1"></a>
@@ -1655,7 +1556,6 @@ Secondary evidence of the contents of the documents referred to in paragraph
 <a id="section-96"></a>
 ### Section 96 - Proof of instrument to the validity of which attestation is necessary
 
-> Source: https://www.lawglobalhub.com/section-96-evidence-act-2011/
 
 
 <a id="section-96-sub-1"></a>
@@ -1669,7 +1569,6 @@ Secondary evidence of the contents of the documents referred to in paragraph
 <a id="section-97"></a>
 ### Section 97 - Admission of execution by part to attested document
 
-> Source: https://www.lawglobalhub.com/section-97-evidence-act-2011/
 
 The admission of a party to an attested document of its execution by himself shall be sufficient proof of its execution as against him, though it be a document required by law to be attested.
 
@@ -1677,7 +1576,6 @@ The admission of a party to an attested document of its execution by himself sha
 <a id="section-98"></a>
 ### Section 98 - Cases in which proof of execution or of handwriting unnecessary
 
-> Source: https://www.lawglobalhub.com/section-98-evidence-act-2011/
 
 
 <a id="section-98-sub-1"></a>
@@ -1693,7 +1591,6 @@ The admission of a party to an attested document of its execution by himself sha
 <a id="section-99"></a>
 ### Section 99 - Proof when attesting witness denies the execution
 
-> Source: https://www.lawglobalhub.com/section-99-evidence-act-2011/
 
 If the attesting witness denies or does not recollect the execution of the document, its execution may be proved by other evidence.
 
@@ -1701,7 +1598,6 @@ If the attesting witness denies or does not recollect the execution of the docum
 <a id="section-100"></a>
 ### Section 100 - Proof of document not required by law to be attested
 
-> Source: https://www.lawglobalhub.com/section-100-evidence-act-2011/
 
 An attested document not required by law to be attested may be proved as if it was unattested.
 
@@ -1709,7 +1605,6 @@ An attested document not required by law to be attested may be proved as if it w
 <a id="section-101"></a>
 ### Section 101 - Comparison of signature, writing, seal or finger impressions with others admitted or proved
 
-> Source: https://www.lawglobalhub.com/section-101-evidence-act-2011/
 
 
 <a id="section-101-sub-1"></a>
@@ -1727,7 +1622,6 @@ An attested document not required by law to be attested may be proved as if it w
 <a id="section-102"></a>
 ### Section 102 - Public documents
 
-> Source: https://www.lawglobalhub.com/section-102-evidence-act-2011/
 
 The following documents are public documents-
   - <a id="section-102-para-a"></a> **(a)** documents forming the official acts or records of the official acts of-
@@ -1739,7 +1633,6 @@ The following documents are public documents-
 <a id="section-103"></a>
 ### Section 103 - Private documents
 
-> Source: https://www.lawglobalhub.com/section-103-evidence-act-2011/
 
 All documents other than public documents are private documents.
 
@@ -1747,7 +1640,6 @@ All documents other than public documents are private documents.
 <a id="section-104"></a>
 ### Section 104 - Certified copies of public documents
 
-> Source: https://www.lawglobalhub.com/section-104-evidence-act-2011/
 
 
 <a id="section-104-sub-1"></a>
@@ -1768,7 +1660,6 @@ All documents other than public documents are private documents.
 <a id="section-105"></a>
 ### Section 105 - Proof of documents by production of certified copies
 
-> Source: https://www.lawglobalhub.com/section-105-evidence-act-2011/
 
 Copies of documents certified in accordance with section 104 may be produced in proof of the contents of the public documents or parts of the public documents of which they purport to be copies.
 
@@ -1776,7 +1667,6 @@ Copies of documents certified in accordance with section 104 may be produced in 
 <a id="section-106"></a>
 ### Section 106 - Proof of other official documents
 
-> Source: https://www.lawglobalhub.com/section-106-evidence-act-2011/
 
 The following public documents may be proved as follows -
   - <a id="section-106-para-a"></a> **(a)** Acts of the National Assembly, Laws of the House of Assembly of a State or bye - laws of a Local Government Council, proclamations, treaties or other acts of State, orders, notifications, nominations, appointments and other official communications of the Government of the Federation or of any State Government or Local Government in Nigeria -
@@ -1806,7 +1696,6 @@ The following public documents may be proved as follows -
 <a id="section-107"></a>
 ### Section 107 - Court may order proof by affidavit
 
-> Source: https://www.lawglobalhub.com/section-107-evidence-act-2011/
 
 A court may in any civil proceeding make an order at any stage of such proceeding directing that specified facts may be proved at the trial by affidavit with or without the attendance of the deponent for cross - examination:
 
@@ -1816,7 +1705,6 @@ Provided that where a party desires the attendance of such deponent for cross - 
 <a id="section-108"></a>
 ### Section 108 - Affidavit to be filled [substituted by Evidence (Amendment) Act, 2023]
 
-> Source: https://www.lawglobalhub.com/section-108-evidence-act-2011/
 
 
 <a id="section-108-sub-1"></a>
@@ -1833,8 +1721,6 @@ Provided that where a party desires the attendance of such deponent for cross - 
 <a id="section-109"></a>
 ### Section 109 - Affidavit sworn in Nigeria [amended by Evidence (Amendment) Act, 2023] [current overlay applied]
 
-> Source: https://www.lawglobalhub.com/section-109-evidence-act-2011/
-> Currentness: this section includes text overlaid from the Evidence (Amendment) Act, 2023.
 
 Any affidavit sworn before any judge, officer or other person duly authorised to take affidavits in Nigeria, whether in person or through audio-visual means, may be used in the court in all cases where affidavits are admissible.
 
@@ -1842,8 +1728,6 @@ Any affidavit sworn before any judge, officer or other person duly authorised to
 <a id="section-110"></a>
 ### Section 110 - Proof of document not required by law to be attested [amended by Evidence (Amendment) Act, 2023] [current overlay applied]
 
-> Source: https://www.lawglobalhub.com/section-110-evidence-act-2011/
-> Currentness: this section includes text overlaid from the Evidence (Amendment) Act, 2023.
 
 Any affidavit sworn in any country other than Nigeria, whether in person or through audio-visual means, before -
 
@@ -1855,7 +1739,6 @@ Any affidavit sworn in any country other than Nigeria, whether in person or thro
 <a id="section-111"></a>
 ### Section 111 - Proof of seal and signature
 
-> Source: https://www.lawglobalhub.com/section-111-evidence-act-2011/
 
 The fact that an affidavit purports to have been sworn in the manner prescribed in the preceding sections shall be prima facie evidence -
   - <a id="section-111-para-a"></a> **(a)** of the seal, or signature as the case may be, of any such court, judge, magistrate or other officer or person mentioned in, or appended or subscribed to, any such affidavit; and
@@ -1865,7 +1748,6 @@ The fact that an affidavit purports to have been sworn in the manner prescribed 
 <a id="section-112"></a>
 ### Section 112 - Affidavit not to be sworn before certain persons
 
-> Source: https://www.lawglobalhub.com/section-112-evidence-act-2011/
 
 An affidavit shall not be admitted which is proved to have been sworn before a person on whose behalf the same is offered, or before his legal practitioner, or before a partner or clerk of his legal practitioner.
 
@@ -1873,7 +1755,6 @@ An affidavit shall not be admitted which is proved to have been sworn before a p
 <a id="section-113"></a>
 ### Section 113 - Affidavit defective in form
 
-> Source: https://www.lawglobalhub.com/section-113-evidence-act-2011/
 
 The court may permit an affidavit to be used, notwithstanding that it is defective in form according to this Act, if the court is satisfied that it has been sworn before a person duly authorised.
 
@@ -1881,7 +1762,6 @@ The court may permit an affidavit to be used, notwithstanding that it is defecti
 <a id="section-114"></a>
 ### Section 114 - Amendment and re-swearing of affidavit
 
-> Source: https://www.lawglobalhub.com/section-114-evidence-act-2011/
 
 A defective or erroneous affidavit may be amended and re - sworn by leave of the court, on such terms as to time, costs or otherwise as seem reasonable.
 
@@ -1889,7 +1769,6 @@ A defective or erroneous affidavit may be amended and re - sworn by leave of the
 <a id="section-115"></a>
 ### Section 115 - Contents of affidavits
 
-> Source: https://www.lawglobalhub.com/section-115-evidence-act-2011/
 
 
 <a id="section-115-sub-1"></a>
@@ -1911,7 +1790,6 @@ A defective or erroneous affidavit may be amended and re - sworn by leave of the
 <a id="section-116"></a>
 ### Section 116 - Conflicting affidavits
 
-> Source: https://www.lawglobalhub.com/section-116-evidence-act-2011/
 
 When there are before a court affidavits that are irreconcilably in conflict on crucial facts, the court shall for the purpose of' resolving the conflict arising from the affidavit evidence, ask the parties to proffer oral evidence as to such facts, and shall hear any such oral evidence of the deponents of the affidavits and such other witnesses as may be called by the parties.
 
@@ -1919,7 +1797,6 @@ When there are before a court affidavits that are irreconcilably in conflict on 
 <a id="section-117"></a>
 ### Section 117 - Form of affidavits
 
-> Source: https://www.lawglobalhub.com/section-117-evidence-act-2011/
 
 
 <a id="section-117-sub-1"></a>
@@ -1944,7 +1821,6 @@ When there are before a court affidavits that are irreconcilably in conflict on 
 <a id="section-118"></a>
 ### Section 118 - Provisions as to altered affidavit
 
-> Source: https://www.lawglobalhub.com/section-118-evidence-act-2011/
 
 The person before whom an affidavit is taken shall not allow it, when sworn, to be altered in any manner without being re - sworn; and may refuse to allow an altered affidavit to be re - sworn and require instead a fresh affidavit.
 
@@ -1952,8 +1828,6 @@ The person before whom an affidavit is taken shall not allow it, when sworn, to 
 <a id="section-119"></a>
 ### Section 119 - Jurat [amended by Evidence (Amendment) Act, 2023] [current overlay applied]
 
-> Source: https://www.lawglobalhub.com/section-119-evidence-act-2011/
-> Currentness: this section includes text overlaid from the Evidence (Amendment) Act, 2023.
 
 
 <a id="section-119-sub-1"></a>
@@ -1984,7 +1858,6 @@ The person before whom an affidavit is taken shall not allow it, when sworn, to 
 <a id="section-120"></a>
 ### Section 120 - Declaration without oath may be taken
 
-> Source: https://www.lawglobalhub.com/section-120-evidence-act-2011/
 
 
 <a id="section-120-sub-1"></a>
@@ -2006,7 +1879,6 @@ The person before whom an affidavit is taken shall not allow it, when sworn, to 
 <a id="section-121"></a>
 ### Section 121 - Proof of facts
 
-> Source: https://www.lawglobalhub.com/section-121-evidence-act-2011/
 
 A fact is said to be -
   - <a id="section-121-para-a"></a> **(a)** "proved" when, after considering the matters before it, the court either believes it to exist or considers its existence so probable that a prudent man ought, in the circumstances of the particular case, to act upon the supposition that it does exist;
@@ -2017,7 +1889,6 @@ A fact is said to be -
 <a id="section-122"></a>
 ### Section 122 - Facts of which COURT must take judicial notice need not to proved
 
-> Source: https://www.lawglobalhub.com/section-122-evidence-act-2011/
 
 
 <a id="section-122-sub-1"></a>
@@ -2055,7 +1926,6 @@ A fact is said to be -
 <a id="section-123"></a>
 ### Section 123 - Facts admitted need to be proved
 
-> Source: https://www.lawglobalhub.com/section-123-evidence-act-2011/
 
 No fact need be proved in any civil proceedings which the parties to the proceedings or their agents agree to admit at the hearing, or which, before the hearing, they agree to admit by any writing under their hands, or which by any rule or pleading in force at the time they are deemed to have admitted by their pleadings:
 
@@ -2065,7 +1935,6 @@ Provided that the court may, in its discretion, require the facts admitted to be
 <a id="section-124"></a>
 ### Section 124 - Facts of common knowledge need not be proved
 
-> Source: https://www.lawglobalhub.com/section-124-evidence-act-2011/
 
 
 <a id="section-124-sub-1"></a>
@@ -2094,7 +1963,6 @@ Provided that the court may, in its discretion, require the facts admitted to be
 <a id="section-125"></a>
 ### Section 125 - Proof of facts by oral evidence
 
-> Source: https://www.lawglobalhub.com/section-125-evidence-act-2011/
 
 All facts, except the contents of documents, may be proved by oral evidence.
 
@@ -2102,7 +1970,6 @@ All facts, except the contents of documents, may be proved by oral evidence.
 <a id="section-126"></a>
 ### Section 126 - Oral evidence must be direct
 
-> Source: https://www.lawglobalhub.com/section-126-evidence-act-2011/
 
 Subject to the provisions of Part III of this Act, oral evidence must, in all cases whatever, be direct -
   - <a id="section-126-para-a"></a> **(a)** if it refers to a fact which could be seen, it must be the evidence of a witness who says he saw that fact;
@@ -2114,7 +1981,6 @@ Subject to the provisions of Part III of this Act, oral evidence must, in all ca
 <a id="section-127"></a>
 ### Section 127 - Inspection when oral evidence refers to real evidence
 
-> Source: https://www.lawglobalhub.com/section-127-evidence-act-2011/
 
 
 <a id="section-127-sub-1"></a>
@@ -2138,7 +2004,6 @@ Subject to the provisions of Part III of this Act, oral evidence must, in all ca
 <a id="section-128"></a>
 ### Section 128 - Evidence of terms of judgments, contracts, grants and other dispositions of property reduced to a documentary form
 
-> Source: https://www.lawglobalhub.com/section-128-evidence-act-2011/
 
 
 <a id="section-128-sub-1"></a>
@@ -2162,7 +2027,6 @@ Subject to the provisions of Part III of this Act, oral evidence must, in all ca
 <a id="section-129"></a>
 ### Section 129 - Evidence as to interpretation of documents
 
-> Source: https://www.lawglobalhub.com/section-129-evidence-act-2011/
 
 
 <a id="section-129-sub-1"></a>
@@ -2204,7 +2068,6 @@ Subject to the provisions of Part III of this Act, oral evidence must, in all ca
 <a id="section-130"></a>
 ### Section 130 - Application of this Part
 
-> Source: https://www.lawglobalhub.com/section-130-evidence-act-2011/
 
 
 <a id="section-130-sub-1"></a>
@@ -2232,7 +2095,6 @@ Subject to the provisions of Part III of this Act, oral evidence must, in all ca
 <a id="section-131"></a>
 ### Section 131 - Burden of proof
 
-> Source: https://www.lawglobalhub.com/section-131-evidence-act-2011/
 
 
 <a id="section-131-sub-1"></a>
@@ -2246,7 +2108,6 @@ Subject to the provisions of Part III of this Act, oral evidence must, in all ca
 <a id="section-132"></a>
 ### Section 132 - On whom burden of proof lies
 
-> Source: https://www.lawglobalhub.com/section-132-evidence-act-2011/
 
 The burden of proof in a suit or proceeding lies on that person who would fail if no evidence at all were given on either side.
 
@@ -2254,7 +2115,6 @@ The burden of proof in a suit or proceeding lies on that person who would fail i
 <a id="section-133"></a>
 ### Section 133 - Burden of proof in civil cases
 
-> Source: https://www.lawglobalhub.com/section-133-evidence-act-2011/
 
 
 <a id="section-133-sub-1"></a>
@@ -2275,7 +2135,6 @@ The burden of proof in a suit or proceeding lies on that person who would fail i
 <a id="section-134"></a>
 ### Section 134 - Standard of proof in civil cases
 
-> Source: https://www.lawglobalhub.com/section-134-evidence-act-2011/
 
 The burden of proof shall be discharged on the balance of probabilities in all civil proceedings.
 
@@ -2283,7 +2142,6 @@ The burden of proof shall be discharged on the balance of probabilities in all c
 <a id="section-135"></a>
 ### Section 135 - Standard of proof where commission of crime in issue and burden where guilt of crime, etc. asserted
 
-> Source: https://www.lawglobalhub.com/section-135-evidence-act-2011/
 
 
 <a id="section-135-sub-1"></a>
@@ -2301,7 +2159,6 @@ The burden of proof shall be discharged on the balance of probabilities in all c
 <a id="section-136"></a>
 ### Section 136 - Burden of proof as to particular fact
 
-> Source: https://www.lawglobalhub.com/section-136-evidence-act-2011/
 
 
 <a id="section-136-sub-1"></a>
@@ -2315,7 +2172,6 @@ The burden of proof shall be discharged on the balance of probabilities in all c
 <a id="section-137"></a>
 ### Section 137 - Standard of proof where burden of proving fact, etc. placed on defendant by law
 
-> Source: https://www.lawglobalhub.com/section-137-evidence-act-2011/
 
 Where in any criminal proceedings the burden of proving the existence of any fact or matter has been placed upon a defendant by virtue of the provisions of any law, the burden shall be discharged on the balance of probabilities.
 
@@ -2323,7 +2179,6 @@ Where in any criminal proceedings the burden of proving the existence of any fac
 <a id="section-138"></a>
 ### Section 138 - Burden of proving fact necessary to be proved to make evidence admissible
 
-> Source: https://www.lawglobalhub.com/section-138-evidence-act-2011/
 
 
 <a id="section-138-sub-1"></a>
@@ -2339,7 +2194,6 @@ Where in any criminal proceedings the burden of proving the existence of any fac
 <a id="section-139"></a>
 ### Section 139 - Burden of proof in criminal cases
 
-> Source: https://www.lawglobalhub.com/section-139-evidence-act-2011/
 
 
 <a id="section-139-sub-1"></a>
@@ -2369,7 +2223,6 @@ Where in any criminal proceedings the burden of proving the existence of any fac
 <a id="section-140"></a>
 ### Section 140 - Proof of facts especially within knowledge
 
-> Source: https://www.lawglobalhub.com/section-140-evidence-act-2011/
 
 When any fact is especially within the knowledge of any person, the burden of proving that fact is upon him.
 
@@ -2377,7 +2230,6 @@ When any fact is especially within the knowledge of any person, the burden of pr
 <a id="section-141"></a>
 ### Section 141 - Exceptions need not be proved by prosecution
 
-> Source: https://www.lawglobalhub.com/section-141-evidence-act-2011/
 
 Any exception, exemption, proviso, excuse, qualification, whether it does or does not accompany in the same section the description of the offence in the legislation creating the offence, may be proved by the defendant, provided that the prosecution is not required to specify or refute any of the exceptions mentioned in this section and if specified or denied, no proof in relation to the matter so specified or denied shall be required on the part of the prosecution.
 
@@ -2385,7 +2237,6 @@ Any exception, exemption, proviso, excuse, qualification, whether it does or doe
 <a id="section-142"></a>
 ### Section 142 - Burden of proof as to relationship in the case of partners, landlord and tenant, principal and agent
 
-> Source: https://www.lawglobalhub.com/section-142-evidence-act-2011/
 
 When the question is whether persons are partners, landlord and tenant, or principal and agent, and it has been shown that they have been acting as such, the burden of proving that they do not stand, or have ceased to stand to each other in those relationships respectively, is on the person who affirms it.
 
@@ -2393,7 +2244,6 @@ When the question is whether persons are partners, landlord and tenant, or princ
 <a id="section-143"></a>
 ### Section 143 - Burden of proof as to ownership
 
-> Source: https://www.lawglobalhub.com/section-143-evidence-act-2011/
 
 When the question is whether any person is the owner of anything of which he is shown to be in possession, the burden of proving that he is not the owner is on the person who affirms that he is not the owner.
 
@@ -2401,7 +2251,6 @@ When the question is whether any person is the owner of anything of which he is 
 <a id="section-144"></a>
 ### Section 144 - Proof of good faith in transactions where one party is in relation of active confidence
 
-> Source: https://www.lawglobalhub.com/section-144-evidence-act-2011/
 
 Where there is a question as to the good faith of a transaction between parties, one of whom stands to the other in a position of active confidence, the burden of proving the good faith of the transaction is on the party who is in a position of active confidence.
 
@@ -2415,7 +2264,6 @@ Where there is a question as to the good faith of a transaction between parties,
 <a id="section-145"></a>
 ### Section 145 - Rules as to presumptions by the court
 
-> Source: https://www.lawglobalhub.com/section-145-evidence-act-2011/
 
 
 <a id="section-145-sub-1"></a>
@@ -2431,7 +2279,6 @@ Where there is a question as to the good faith of a transaction between parties,
 <a id="section-146"></a>
 ### Section 146 - Presumption as to genuineness of certified copies
 
-> Source: https://www.lawglobalhub.com/section-146-evidence-act-2011/
 
 
 <a id="section-146-sub-1"></a>
@@ -2445,7 +2292,6 @@ Where there is a question as to the good faith of a transaction between parties,
 <a id="section-147"></a>
 ### Section 147 - Presumption as to documents produced as record of evidence
 
-> Source: https://www.lawglobalhub.com/section-147-evidence-act-2011/
 
 
 <a id="section-147-sub-1"></a>
@@ -2465,7 +2311,6 @@ Where there is a question as to the good faith of a transaction between parties,
 <a id="section-148"></a>
 ### Section 148 - Presumption as to gazettes, newspapers, Acts of the National Assembly and other documents
 
-> Source: https://www.lawglobalhub.com/section-148-evidence-act-2011/
 
 The court shall presume the genuineness of every document purporting to be -
   - <a id="section-148-para-a"></a> **(a)** the official Gazette of Nigeria or of a State,
@@ -2478,7 +2323,6 @@ The court shall presume the genuineness of every document purporting to be -
 <a id="section-149"></a>
 ### Section 149 - Presumption as to document admissible in other countries without proof or seal or signature
 
-> Source: https://www.lawglobalhub.com/section-149-evidence-act-2011/
 
 When any document is produced before any court, purporting to be a document which by the law in force for the time being in any country other than Nigeria would be admissible in proof of any particular in any court of justice in that country, without proof of the seal or stamp or signature authenticating it, or of the judicial or official character claimed by the person by whom it purports to be signed, the court shall presume that -
   - <a id="section-149-para-a"></a> **(a)** such seal, stamp or signature, is genuine; and
@@ -2488,7 +2332,6 @@ When any document is produced before any court, purporting to be a document whic
 <a id="section-150"></a>
 ### Section 150 - Presumption as to powers of attorney
 
-> Source: https://www.lawglobalhub.com/section-150-evidence-act-2011/
 
 The court shall presume that every document purporting to be a power of attorney, and to have been executed before and authenticated by a notary public or any court, judge, magistrate, consul or representative of Nigeria or, as the case may be, of the President, was so executed and authenticated.
 
@@ -2496,7 +2339,6 @@ The court shall presume that every document purporting to be a power of attorney
 <a id="section-151"></a>
 ### Section 151 - Presumption as to public maps and charts
 
-> Source: https://www.lawglobalhub.com/section-151-evidence-act-2011/
 
 
 <a id="section-151-sub-1"></a>
@@ -2510,7 +2352,6 @@ The court shall presume that every document purporting to be a power of attorney
 <a id="section-152"></a>
 ### Section 152 - Presumption as to books
 
-> Source: https://www.lawglobalhub.com/section-152-evidence-act-2011/
 
 The court may presume that any book to which it may refer for information on matters of public or general interest, the statements of which are relevant facts and which is produced for its inspection was written and published by the person, and at the time and place by whom or at which it purports to have been written or published.
 
@@ -2518,7 +2359,6 @@ The court may presume that any book to which it may refer for information on mat
 <a id="section-153"></a>
 ### Section 153 - Presumption as to telegraphic and electronic messages
 
-> Source: https://www.lawglobalhub.com/section-153-evidence-act-2011/
 
 
 <a id="section-153-sub-1"></a>
@@ -2532,7 +2372,6 @@ The court may presume that any book to which it may refer for information on mat
 <a id="section-154"></a>
 ### Section 154 - Presumption as to due execution of documents not produced
 
-> Source: https://www.lawglobalhub.com/section-154-evidence-act-2011/
 
 The court shall presume that every document called for and not produced after notice to produce given under section 91, was attested, stamped and executed in the manner required by law.
 
@@ -2540,7 +2379,6 @@ The court shall presume that every document called for and not produced after no
 <a id="section-155"></a>
 ### Section 155 - Presumption as to handwriting, etc. in documents twenty years old
 
-> Source: https://www.lawglobalhub.com/section-155-evidence-act-2011/
 
 Where any document purporting or proved to be twenty years old or more is produced from any custody which the court in the particular case considers proper, the court may presume that the signature and every other part of such document which purports to be in the handwriting of any particular person is in that person's handwriting, and in the case of a document executed or attested, that it was duly executed and attested by the person by whom it purports to be executed and attested.
 
@@ -2548,7 +2386,6 @@ Where any document purporting or proved to be twenty years old or more is produc
 <a id="section-156"></a>
 ### Section 156 - Proper custody defined
 
-> Source: https://www.lawglobalhub.com/section-156-evidence-act-2011/
 
 Documents are said to be in proper custody within the meaning of sections 148 to 155 if they are in the place in which, and under the care of the person with whom, they would naturally be; but no custody is improper if it is proved to have had a legitimate origin, or if the circumstances of the particular case are such as to render such an origin probable.
 
@@ -2556,7 +2393,6 @@ Documents are said to be in proper custody within the meaning of sections 148 to
 <a id="section-157"></a>
 ### Section 157 - Presumption as to date of documents
 
-> Source: https://www.lawglobalhub.com/section-157-evidence-act-2011/
 
 When any document bearing a date has been proved, it is presumed to have been made on the date on it bears and if more documents than one bear the same date, they are presumed to have been executed in the order necessary to effect the object for which they were executed, but independent proof of the correctness of the date will be required if the circumstances are such that there may have been collusion as to the date which may injure any person or defeat the objects of any law.
 
@@ -2564,7 +2400,6 @@ When any document bearing a date has been proved, it is presumed to have been ma
 <a id="section-158"></a>
 ### Section 158 - Presumption as to sealing and delivery
 
-> Source: https://www.lawglobalhub.com/section-158-evidence-act-2011/
 
 When any document is not produced after due notice to produce, and after being called for, it is presumed to have been duly stamped unless it is shown to have remained unstamped for some time after its execution.
 
@@ -2572,7 +2407,6 @@ When any document is not produced after due notice to produce, and after being c
 <a id="section-159"></a>
 ### Section 159 - Presumption as to sealing and delivery
 
-> Source: https://www.lawglobalhub.com/section-159-evidence-act-2011/
 
 When any document purporting to be, and stamped as, a deed, appears or is proved to be or to have been signed and duly attested, it is presumed to have been sealed and delivered although no impression of a seal appears on it.
 
@@ -2580,7 +2414,6 @@ When any document purporting to be, and stamped as, a deed, appears or is proved
 <a id="section-160"></a>
 ### Section 160 - Presumption as to alternative
 
-> Source: https://www.lawglobalhub.com/section-160-evidence-act-2011/
 
 
 <a id="section-160-sub-1"></a>
@@ -2617,7 +2450,6 @@ When any document purporting to be, and stamped as, a deed, appears or is proved
 <a id="section-161"></a>
 ### Section 161 - Presumption as to age of parties to a conveyance or instrument
 
-> Source: https://www.lawglobalhub.com/section-161-evidence-act-2011/
 
 The persons expressed to be parties to any conveyance or instrument relating to an interest in land shall, until the contrary is proved, be presumed to be of full age at the date of the conveyance or instrument.
 
@@ -2625,7 +2457,6 @@ The persons expressed to be parties to any conveyance or instrument relating to 
 <a id="section-162"></a>
 ### Section 162 - Presumption as to statements in documents twenty years old
 
-> Source: https://www.lawglobalhub.com/section-162-evidence-act-2011/
 
 Recitals, statements, and descriptions of facts, matters, and parties contained in deeds, instruments, Acts of the National Assembly, or statutory declarations twenty years old or more at the date of the contract in which such deed, instrument or other document is sought to be relied upon shall, unless and except so far as they may be proved to be inaccurate, be taken to be sufficient evidence of such facts, matters and descriptions.
 
@@ -2633,7 +2464,6 @@ Recitals, statements, and descriptions of facts, matters, and parties contained 
 <a id="section-163"></a>
 ### Section 163 - Presumption as to deeds of corporation
 
-> Source: https://www.lawglobalhub.com/section-163-evidence-act-2011/
 
 
 <a id="section-163-sub-1"></a>
@@ -2650,7 +2480,6 @@ Recitals, statements, and descriptions of facts, matters, and parties contained 
 <a id="section-164"></a>
 ### Section 164 - Presumption of death from seven years absence and other facts
 
-> Source: https://www.lawglobalhub.com/section-164-evidence-act-2011/
 
 
 <a id="section-164-sub-1"></a>
@@ -2668,7 +2497,6 @@ Recitals, statements, and descriptions of facts, matters, and parties contained 
 <a id="section-165"></a>
 ### Section 165 - Presumption of legitimacy
 
-> Source: https://www.lawglobalhub.com/section-165-evidence-act-2011/
 
 Without prejudice to section 84 of the Matrimonial Causes Act, where a person was born during the continuance of a valid marriage between his mother and any man, or within 280 days after dissolution of the marriage, the mother remaining unmarried, the court shall presume that the person in question is the child of that man.
 
@@ -2676,7 +2504,6 @@ Without prejudice to section 84 of the Matrimonial Causes Act, where a person wa
 <a id="section-166"></a>
 ### Section 166 - Presumption of marriage
 
-> Source: https://www.lawglobalhub.com/section-166-evidence-act-2011/
 
 When in any proceedings whether civil or criminal there is a question as to whether a man or woman is the husband or wife under Islamic or Customary law, of a party to the proceedings the court shall, unless the contrary is proved, presume the existence of a valid and subsisting marriage between the two persons where evidence is given to the satisfaction of the court, of cohabitation as husband and wife by such man and woman.
 
@@ -2684,7 +2511,6 @@ When in any proceedings whether civil or criminal there is a question as to whet
 <a id="section-167"></a>
 ### Section 167 - Court may presume existence of certain facts
 
-> Source: https://www.lawglobalhub.com/section-167-evidence-act-2011/
 
 The court may presume the existence of any fact which it thinks likely to have happened, regard being had to the common course of natural events, human conduct and public and private business, in their relationship to the facts of the particular case, and in particular the court may presume that -
   - <a id="section-167-para-a"></a> **(a)** a man who is in possession of stolen goods soon after the theft is either the thief or has received the goods knowing them to be stolen, unless he can account for his possession;
@@ -2697,7 +2523,6 @@ The court may presume the existence of any fact which it thinks likely to have h
 <a id="section-168"></a>
 ### Section 168 - Presumptions of regularity and of deeds to complete title
 
-> Source: https://www.lawglobalhub.com/section-168-evidence-act-2011/
 
 
 <a id="section-168-sub-1"></a>
@@ -2719,7 +2544,6 @@ The court may presume the existence of any fact which it thinks likely to have h
 <a id="section-169"></a>
 ### Section 169 - Estoppel
 
-> Source: https://www.lawglobalhub.com/section-169-evidence-act-2011/
 
 When one person has either by virtue of an existing court judgment, deed or agreement, or by his declaration, act or omission, intentionally caused or permitted another person to believe a thing to be true and to act upon such belief, neither he nor his representative in interest shall be allowed, in any proceedings between himself and such person or such person's representative in interest, to deny the truth of that thing.
 
@@ -2727,7 +2551,6 @@ When one person has either by virtue of an existing court judgment, deed or agre
 <a id="section-170"></a>
 ### Section 170 - Estoppel of tenant; and of licensee of person in possession
 
-> Source: https://www.lawglobalhub.com/section-170-evidence-act-2011/
 
 No tenant of immovable property or person claiming through such tenant, shall during the continuance of the tenancy, be permitted to deny that the landlord of such tenant had at the beginning of the tenancy a title to such immovable property and no person who came upon any immovable property by the licence of the person in possession of it shall be permitted to deny that such person had a title to such possession at the time when such licence was given.
 
@@ -2735,7 +2558,6 @@ No tenant of immovable property or person claiming through such tenant, shall du
 <a id="section-171"></a>
 ### Section 171 - Estoppel of bailee, agent and licensee
 
-> Source: https://www.lawglobalhub.com/section-171-evidence-act-2011/
 
 No bailee, agent or licensee is permitted to deny that the bailor, principal or licensor, by whom any goods were entrusted to any of them respectively, was entitled to those goods at the time when they were so entrusted:
 
@@ -2745,7 +2567,6 @@ Provided that any such bailee, agent or licensee may show that he was compelled 
 <a id="section-172"></a>
 ### Section 172 - Estoppel of person signing bill of lading
 
-> Source: https://www.lawglobalhub.com/section-172-evidence-act-2011/
 
 Every bill of lading in the hands of a consignee or endorsee for valuable consideration, representing goods to have been shipped on board a vessel, is conclusive proof of that shipment as against the master or other person signing the same, notwithstanding that some goods or some part of them may not have been so shipped, unless such holder of the bill of lading had actual notice at the time of receiving the same that the goods had not been in fact laden on board:
 
@@ -2755,7 +2576,6 @@ Provided that the master or other person so signing may exonerate himself in res
 <a id="section-173"></a>
 ### Section 173 - Judgment conclusive of facts forming ground of judgment
 
-> Source: https://www.lawglobalhub.com/section-173-evidence-act-2011/
 
 Every judgment is conclusive proof, as against parties and privies, of facts directly in issue in the case, actually decided by the court, and appearing from the judgment itself to be the ground on which it was based; unless evidence was admitted in the action in which the judgment was delivered which is excluded in the action in which that judgment is intended to be proved.
 
@@ -2763,7 +2583,6 @@ Every judgment is conclusive proof, as against parties and privies, of facts dir
 <a id="section-174"></a>
 ### Section 174 - Effect of judgment not pleaded as estoppel
 
-> Source: https://www.lawglobalhub.com/section-174-evidence-act-2011/
 
 
 <a id="section-174-sub-1"></a>
@@ -2783,7 +2602,6 @@ Every judgment is conclusive proof, as against parties and privies, of facts dir
 <a id="section-175"></a>
 ### Section 175 - Who may testify
 
-> Source: https://www.lawglobalhub.com/section-175-evidence-act-2011/
 
 
 <a id="section-175-sub-1"></a>
@@ -2797,7 +2615,6 @@ Every judgment is conclusive proof, as against parties and privies, of facts dir
 <a id="section-176"></a>
 ### Section 176 - Dumb witnesses
 
-> Source: https://www.lawglobalhub.com/section-176-evidence-act-2011/
 
 
 <a id="section-176-sub-1"></a>
@@ -2811,7 +2628,6 @@ Every judgment is conclusive proof, as against parties and privies, of facts dir
 <a id="section-177"></a>
 ### Section 177 - Cases in which banker or officers representing other financial institutions not compellable to produce books
 
-> Source: https://www.lawglobalhub.com/section-177-evidence-act-2011/
 
 A banker or an officer of a bank or of other financial institution shall not, in any legal proceeding to which the bank or financial institution is not a party, be compellable to produce any banker's book or financial book, the contents of which can be proved in the manner provided in sections 89 and 90 of this Act or to appear as a witness to prove the matters, transactions and accounts recorded in such book, unless by order of the court made for special cause.
 
@@ -2819,7 +2635,6 @@ A banker or an officer of a bank or of other financial institution shall not, in
 <a id="section-178"></a>
 ### Section 178 - Parties to civil suits and their wives or husbands
 
-> Source: https://www.lawglobalhub.com/section-178-evidence-act-2011/
 
 Subject to the exception applicable by virtue of section 165 of this Act in all civil proceedings the parties to the suit, and the husband or wife of any party to the suit, shall be competent witnesses.
 
@@ -2827,7 +2642,6 @@ Subject to the exception applicable by virtue of section 165 of this Act in all 
 <a id="section-179"></a>
 ### Section 179 - Competence in criminal cases
 
-> Source: https://www.lawglobalhub.com/section-179-evidence-act-2011/
 
 Subject to this Part, in criminal cases the defendant, his wife or her husband, as the case may be, or any person jointly charged with such defendant and tried at the same time, and the wife or husband of the person so jointly charged, is competent to testify.
 
@@ -2835,7 +2649,6 @@ Subject to this Part, in criminal cases the defendant, his wife or her husband, 
 <a id="section-180"></a>
 ### Section 180 - Competence of person charged to give evidence
 
-> Source: https://www.lawglobalhub.com/section-180-evidence-act-2011/
 
 Every person charged with an offence shall be a competent witness for the defence at every stage of the proceedings whether the person so charged is charged solely or jointly with any other person:
 
@@ -2854,7 +2667,6 @@ Provided that -
 <a id="section-181"></a>
 ### Section 181 - Comment on failure by defendant to give evidence
 
-> Source: https://www.lawglobalhub.com/section-181-evidence-act-2011/
 
 In any criminal proceedings, where a defendant has not given evidence, the court, the prosecution or any other party to the proceedings may comment on the failure of the defendant to give evidence but the comment shall not suggest that the defendant failed to do so because he was, or that he is, guilty of the offence charged.
 
@@ -2862,7 +2674,6 @@ In any criminal proceedings, where a defendant has not given evidence, the court
 <a id="section-182"></a>
 ### Section 182 - Evidence by husband or wife, when compellable
 
-> Source: https://www.lawglobalhub.com/section-182-evidence-act-2011/
 
 
 <a id="section-182-sub-1"></a>
@@ -2890,7 +2701,6 @@ In any criminal proceedings, where a defendant has not given evidence, the court
 <a id="section-183"></a>
 ### Section 183 - Witness not to be compellable to incriminate himself
 
-> Source: https://www.lawglobalhub.com/section-183-evidence-act-2011/
 
 No one is bound to answer any question if the answer to it would, in the opinion of the court, have a tendency to expose the witness or the wife or husband of the witness to any criminal charge, or to any penalty or forfeiture which the judge regards as reasonably likely to be preferred or sued for:Provided that -
   - <a id="section-183-para-a"></a> **(a)** a person charged with an offence, and being a witness in pursuance of section 180 of this Act may be asked and is bound to answer any question in cross - examination notwithstanding that it would tend to incriminate him as to the offence charged;
@@ -2901,7 +2711,6 @@ No one is bound to answer any question if the answer to it would, in the opinion
 <a id="section-184"></a>
 ### Section 184 - Production of title deeds or other documents of witness not a party
 
-> Source: https://www.lawglobalhub.com/section-184-evidence-act-2011/
 
 No witness who is not a party to a suit shall be compelled to produce his title - deeds to any property or any document by virtue of which he holds any property as pledgee or mortgagee or any document the production of which might tend to incriminate him, unless he has agreed in writing to produce them with the person seeking the production of such deeds or some person through whom he claims.
 
@@ -2909,7 +2718,6 @@ No witness who is not a party to a suit shall be compelled to produce his title 
 <a id="section-185"></a>
 ### Section 185 - Production of documents which another person could refuse to produce
 
-> Source: https://www.lawglobalhub.com/section-185-evidence-act-2011/
 
 No one shall be compelled to produce documents in his possession which any other person would be entitled to refuse to produce if they were in his possession, unless such last mentioned person consents to their production.
 
@@ -2917,7 +2725,6 @@ No one shall be compelled to produce documents in his possession which any other
 <a id="section-186"></a>
 ### Section 186 - Evidence by spouse as to adultery
 
-> Source: https://www.lawglobalhub.com/section-186-evidence-act-2011/
 
 The parties to any proceedings instituted in consequence of adultery and the husbands and wives of the parties shall be competent to give evidence in the proceedings, but no witness in any such proceedings whether a party to them or not, shall be liable to be asked or bound to answer any question tending to show that he or she has been guilty of adultery, unless he or she has already given evidence in the same proceeding in disproof of the alleged adultery.
 
@@ -2925,7 +2732,6 @@ The parties to any proceedings instituted in consequence of adultery and the hus
 <a id="section-187"></a>
 ### Section 187 - Communications during marriage
 
-> Source: https://www.lawglobalhub.com/section-187-evidence-act-2011/
 
 No husband or wife shall be compelled to disclose any communication made to him or her during marriage by any person to whom he or she is or has been married nor shall he or she be permitted to disclose any such communication, unless the person who made it, or that person's representative in interest, consents, except in suits between married persons, or proceedings in which one married person is prosecuted for an offence specified in section 182(1) of this Act.
 
@@ -2933,7 +2739,6 @@ No husband or wife shall be compelled to disclose any communication made to him 
 <a id="section-188"></a>
 ### Section 188 - Compellability, of justices etc. or the persons before whom the proceeding is being held
 
-> Source: https://www.lawglobalhub.com/section-188-evidence-act-2011/
 
 No Justice, Judge, Grand Kadi or President of a Customary Court of Appeal and, except upon the special order of the High Court of the State, or of the Federal Capital Territory, Abuja or the Federal High Court, no magistrate, or other persons before whom a proceeding is being held shall be compelled to answer any questions as to his own conduct in court in any of the capacities specified in this section, or as to anything which came to his knowledge in court in such capacity but he may be examined as to other matters which occurred in his presence whilst he was so acting.
 
@@ -2941,7 +2746,6 @@ No Justice, Judge, Grand Kadi or President of a Customary Court of Appeal and, e
 <a id="section-189"></a>
 ### Section 189 - Restriction on disclosure as to source of information in respect of commission of offences
 
-> Source: https://www.lawglobalhub.com/section-189-evidence-act-2011/
 
 No magistrate, police officer or any other public officer authorised to investigate or prosecute offences under any written law shall be compelled to disclose the source of any information as to the commission of an offence which he is so authorised to investigate or prosecute and no public officer employed in or about the business of any branch of the public revenue, shall be compelled to disclose the source of any information as to the commission of any offence against the public revenue.
 
@@ -2949,7 +2753,6 @@ No magistrate, police officer or any other public officer authorised to investig
 <a id="section-190"></a>
 ### Section 190 - Evidence as to affairs of State
 
-> Source: https://www.lawglobalhub.com/section-190-evidence-act-2011/
 
 
 <a id="section-190-sub-1"></a>
@@ -2968,7 +2771,6 @@ Provided that the Ministry, Department or Agency concerned shall, on the order o
 <a id="section-191"></a>
 ### Section 191 - Official communication
 
-> Source: https://www.lawglobalhub.com/section-191-evidence-act-2011/
 
 No public officer shall be compelled to disclose communications made to him in official confidence, when he considers that the public interests would suffer by the disclosure:
 
@@ -2981,7 +2783,6 @@ Provided that the public officer concerned shall on the order of the court, disc
 <a id="section-192"></a>
 ### Section 192 - Professional communication between client and legal practitioner
 
-> Source: https://www.lawglobalhub.com/section-192-evidence-act-2011/
 
 
 <a id="section-192-sub-1"></a>
@@ -3003,7 +2804,6 @@ Provided that nothing in this section shall protect from disclosure -
 <a id="section-193"></a>
 ### Section 193 - Section 192 to apply to interpreters and clerks
 
-> Source: https://www.lawglobalhub.com/section-193-evidence-act-2011/
 
 The provisions of section 192 of this Act shall apply to interpreters and the clerks of legal practitioners.
 
@@ -3011,7 +2811,6 @@ The provisions of section 192 of this Act shall apply to interpreters and the cl
 <a id="section-194"></a>
 ### Section 194 - Privilege not waived by volunteering evidence
 
-> Source: https://www.lawglobalhub.com/section-194-evidence-act-2011/
 
 If any party to a suit or proceeding gives evidence in such suit or proceeding, whether at his own instance or otherwise, he shall not be deemed to have by this reason consented to such disclosure as is mentioned in section 192 of this Act and, if any party to a suit or proceedings calls any such legal practitioner as a witness, he shall be deemed to have consented to such disclosure only if he questions such legal practitioner on matters which, but for such question, he would not be at liberty to disclose.
 
@@ -3019,7 +2818,6 @@ If any party to a suit or proceeding gives evidence in such suit or proceeding, 
 <a id="section-195"></a>
 ### Section 195 - Confidential communication with legal advisers
 
-> Source: https://www.lawglobalhub.com/section-195-evidence-act-2011/
 
 No one shall be compelled to disclose to the court any confidential communication which has taken place between him and a legal practitioner consulted by him, unless he offers himself as a witness in which case he may be compelled to disclose any such communications as may appear to the court necessary to be known, in order to explain any evidence which he has given, but no others.
 
@@ -3027,7 +2825,6 @@ No one shall be compelled to disclose to the court any confidential communicatio
 <a id="section-196"></a>
 ### Section 196 - Statements in documents marked "without prejudice"
 
-> Source: https://www.lawglobalhub.com/section-196-evidence-act-2011/
 
 A statement in any document marked "without prejudice" made in the course of negotiation for a settlement of a dispute out of court, shall not be given in evidence in any civil proceedings in proof of the matters stated in it.
 
@@ -3035,7 +2832,6 @@ A statement in any document marked "without prejudice" made in the course of neg
 <a id="section-197"></a>
 ### Section 197 - Corroboration in actions for breach of promise of marriage
 
-> Source: https://www.lawglobalhub.com/section-197-evidence-act-2011/
 
 A plaintiff in any action for breach of promise of marriage is not entitled to succeed unless his or her testimony is corroborated by some other material evidence in support of such promise and the fact that the defendant did not answer letters affirming that he had promised to marry the plaintiff is not such corroboration.
 
@@ -3043,7 +2839,6 @@ A plaintiff in any action for breach of promise of marriage is not entitled to s
 <a id="section-198"></a>
 ### Section 198 - Accomplice
 
-> Source: https://www.lawglobalhub.com/section-198-evidence-act-2011/
 
 
 <a id="section-198-sub-1"></a>
@@ -3057,7 +2852,6 @@ A plaintiff in any action for breach of promise of marriage is not entitled to s
 <a id="section-199"></a>
 ### Section 199 - Co-defendant not an accomplice
 
-> Source: https://www.lawglobalhub.com/section-199-evidence-act-2011/
 
 Where defendants are tried jointly and any of them gives evidence on his own behalf which incriminates a co-defendant the defendant who gives such evidence shall not be considered to be an accomplice.
 
@@ -3065,7 +2859,6 @@ Where defendants are tried jointly and any of them gives evidence on his own beh
 <a id="section-200"></a>
 ### Section 200 - Number of witnesses
 
-> Source: https://www.lawglobalhub.com/section-200-evidence-act-2011/
 
 Except as provided in sections 201 to 204 of this Act no particular number of witnesses shall in any case be required for the proof of any fact.
 
@@ -3073,7 +2866,6 @@ Except as provided in sections 201 to 204 of this Act no particular number of wi
 <a id="section-201"></a>
 ### Section 201 - Treason and treasonable offences
 
-> Source: https://www.lawglobalhub.com/section-201-evidence-act-2011/
 
 
 <a id="section-201-sub-1"></a>
@@ -3090,7 +2882,6 @@ Except as provided in sections 201 to 204 of this Act no particular number of wi
 <a id="section-202"></a>
 ### Section 202 - Evidence on charge of perjury
 
-> Source: https://www.lawglobalhub.com/section-202-evidence-act-2011/
 
 A person shall not be convicted of committing perjury or for counselling or procuring the commission of perjury, upon the uncorroborated testimony of one witness contradicting the oath on which perjury is assigned, unless circumstances are proved which corroborated such witness.
 
@@ -3098,7 +2889,6 @@ A person shall not be convicted of committing perjury or for counselling or proc
 <a id="section-203"></a>
 ### Section 203 - Exceeding speed limit
 
-> Source: https://www.lawglobalhub.com/section-203-evidence-act-2011/
 
 
 <a id="section-203-sub-1"></a>
@@ -3112,7 +2902,6 @@ A person shall not be convicted of committing perjury or for counselling or proc
 <a id="section-204"></a>
 ### Section 204 - Sedition
 
-> Source: https://www.lawglobalhub.com/section-204-evidence-act-2011/
 
 A person shall not be convicted of the offence of uttering seditious words under paragraph (b) of subsection
 
@@ -3129,7 +2918,6 @@ A person shall not be convicted of the offence of uttering seditious words under
 <a id="section-205"></a>
 ### Section 205 - Oral evidence to be on oath or affirmation
 
-> Source: https://www.lawglobalhub.com/section-205-evidence-act-2011/
 
 Save as otherwise provided in sections 208 and 209 of this Act all oral evidence given in any proceedings must be given upon oath or affirmation administered in accordance with the Oaths Act or Law, as the case may be.
 
@@ -3137,7 +2925,6 @@ Save as otherwise provided in sections 208 and 209 of this Act all oral evidence
 <a id="section-206"></a>
 ### Section 206 - Witness to be cautioned before giving oral evidence
 
-> Source: https://www.lawglobalhub.com/section-206-evidence-act-2011/
 
 Any witness summoned to give oral evidence in any proceedings shall before giving such evidence be cautioned by the court, or the registrar upon the court's direction, in the following words -
 
@@ -3147,7 +2934,6 @@ Any witness summoned to give oral evidence in any proceedings shall before givin
 <a id="section-207"></a>
 ### Section 207 - Absence of religious belief does not invalidate oath
 
-> Source: https://www.lawglobalhub.com/section-207-evidence-act-2011/
 
 Where an oath has been duly administered and taken, the fact that the person to whom the same was administered had, at the time of taking such oath, no religious belief, does not for any purpose affect the validity of such oath.
 
@@ -3155,7 +2941,6 @@ Where an oath has been duly administered and taken, the fact that the person to 
 <a id="section-208"></a>
 ### Section 208 - Cases in which evidence not given upon oath may be received
 
-> Source: https://www.lawglobalhub.com/section-208-evidence-act-2011/
 
 
 <a id="section-208-sub-1"></a>
@@ -3169,7 +2954,6 @@ Where an oath has been duly administered and taken, the fact that the person to 
 <a id="section-209"></a>
 ### Section 209 - Unsworn evidence of child
 
-> Source: https://www.lawglobalhub.com/section-209-evidence-act-2011/
 
 
 <a id="section-209-sub-1"></a>
@@ -3194,7 +2978,6 @@ Where an oath has been duly administered and taken, the fact that the person to 
 <a id="section-210"></a>
 ### Section 210 - Order of production and examination of witnesses
 
-> Source: https://www.lawglobalhub.com/section-210-evidence-act-2011/
 
 The order in which witnesses are produced and examined shall be regulated by the law and practice for the time being relating to civil and criminal procedure respectively, and, in the absence of any such law, at the discretion of the court.
 
@@ -3202,7 +2985,6 @@ The order in which witnesses are produced and examined shall be regulated by the
 <a id="section-211"></a>
 ### Section 211 - Court to decide as to admission of evidence
 
-> Source: https://www.lawglobalhub.com/section-211-evidence-act-2011/
 
 
 <a id="section-211-sub-1"></a>
@@ -3220,7 +3002,6 @@ The order in which witnesses are produced and examined shall be regulated by the
 <a id="section-212"></a>
 ### Section 212 - Ordering witnesses out of court
 
-> Source: https://www.lawglobalhub.com/section-212-evidence-act-2011/
 
 On the application of either party, or of its own motion, the court may order witnesses on both sides to be kept out of court; but this provision does not extend to the parties themselves or to their respective legal advisers, although intended to be called as witnesses.
 
@@ -3228,7 +3009,6 @@ On the application of either party, or of its own motion, the court may order wi
 <a id="section-213"></a>
 ### Section 213 - Preventing communication with witnesses
 
-> Source: https://www.lawglobalhub.com/section-213-evidence-act-2011/
 
 The court may during any trial take such means as it considers necessary and proper for preventing communication with witnesses who are within the court house or its precincts awaiting examination.
 
@@ -3236,7 +3016,6 @@ The court may during any trial take such means as it considers necessary and pro
 <a id="section-214"></a>
 ### Section 214 - Examination- in-chief, cross-examination and re-examination
 
-> Source: https://www.lawglobalhub.com/section-214-evidence-act-2011/
 
 
 <a id="section-214-sub-1"></a>
@@ -3252,7 +3031,6 @@ The court may during any trial take such means as it considers necessary and pro
 <a id="section-215"></a>
 ### Section 215 - Order and direction of examination
 
-> Source: https://www.lawglobalhub.com/section-215-evidence-act-2011/
 
 
 <a id="section-215-sub-1"></a>
@@ -3268,7 +3046,6 @@ The court may during any trial take such means as it considers necessary and pro
 <a id="section-216"></a>
 ### Section 216 - Cross-examination by co-defendant of prosecution witness
 
-> Source: https://www.lawglobalhub.com/section-216-evidence-act-2011/
 
 Where more than one defendant is charged at the same time, each defendant shall be allowed to cross - examine a witness called by the prosecution before the witness is re-examined.
 
@@ -3276,7 +3053,6 @@ Where more than one defendant is charged at the same time, each defendant shall 
 <a id="section-217"></a>
 ### Section 217 - Cross-examination by co-defendant of witness called by a defendant
 
-> Source: https://www.lawglobalhub.com/section-217-evidence-act-2011/
 
 Where more than one defendant is charged at the same time, a witness called by one defendant may be cross-examined by the other defendant and if cross-examined by the other defendant such cross-examination shall take place before cross-examination by the prosecution.
 
@@ -3284,7 +3060,6 @@ Where more than one defendant is charged at the same time, a witness called by o
 <a id="section-218"></a>
 ### Section 218 - Production of documents without giving evidence
 
-> Source: https://www.lawglobalhub.com/section-218-evidence-act-2011/
 
 Any person, whether a party or not, in a cause may be summoned to produce a document without being summoned to give evidence, and if he causes such document to be produced in court the court may dispense with his personal attendance.
 
@@ -3292,7 +3067,6 @@ Any person, whether a party or not, in a cause may be summoned to produce a docu
 <a id="section-219"></a>
 ### Section 219 - Cross-examination of person called to produce a document
 
-> Source: https://www.lawglobalhub.com/section-219-evidence-act-2011/
 
 A person summoned to produce a document does not become a witness by the mere fact that he produces it and cannot be cross-examined unless and until he is called as a witness.
 
@@ -3300,7 +3074,6 @@ A person summoned to produce a document does not become a witness by the mere fa
 <a id="section-220"></a>
 ### Section 220 - Witnesses to character
 
-> Source: https://www.lawglobalhub.com/section-220-evidence-act-2011/
 
 Witnesses to character may be cross-examined and re-examined.
 
@@ -3308,7 +3081,6 @@ Witnesses to character may be cross-examined and re-examined.
 <a id="section-221"></a>
 ### Section 221 - Leading question
 
-> Source: https://www.lawglobalhub.com/section-221-evidence-act-2011/
 
 
 <a id="section-221-sub-1"></a>
@@ -3327,7 +3099,6 @@ Witnesses to character may be cross-examined and re-examined.
 <a id="section-222"></a>
 ### Section 222 - Evidence as to matters in writing
 
-> Source: https://www.lawglobalhub.com/section-222-evidence-act-2011/
 
 
 <a id="section-222-sub-1"></a>
@@ -3341,7 +3112,6 @@ Witnesses to character may be cross-examined and re-examined.
 <a id="section-223"></a>
 ### Section 223 - Question lawful in cross-examination
 
-> Source: https://www.lawglobalhub.com/section-223-evidence-act-2011/
 
 When a witness is cross-examined, he may in addition to the question referred to in preceding sections of this Part, be asked any questions which tend to -
   - <a id="section-223-para-a"></a> **(a)** test his accuracy, veracity or credibility; or
@@ -3355,7 +3125,6 @@ Provided that a person charged with a criminal offence and being a witness may b
 <a id="section-224"></a>
 ### Section 224 - Court to decide whether question shall be asked and when witness compelled to answer
 
-> Source: https://www.lawglobalhub.com/section-224-evidence-act-2011/
 
 
 <a id="section-224-sub-1"></a>
@@ -3376,7 +3145,6 @@ Provided that a person charged with a criminal offence and being a witness may b
 <a id="section-225"></a>
 ### Section 225 - Question not to be asked with out reasonable grounds
 
-> Source: https://www.lawglobalhub.com/section-225-evidence-act-2011/
 
 Any question as referred to in section 224 of this Act may not be asked, unless the person asking it has reasonable grounds for thinking that the imputation which it conveys is well founded.
 
@@ -3384,7 +3152,6 @@ Any question as referred to in section 224 of this Act may not be asked, unless 
 <a id="section-226"></a>
 ### Section 226 - Procedure of court in case of question being asked without reasonable grounds
 
-> Source: https://www.lawglobalhub.com/section-226-evidence-act-2011/
 
 If the court is of the opinion that any question referred to in section 224 of this Act was asked without reasonable grounds, it may, if it was asked by any legal practitioner, report the circumstances of the case to the Attorney - General of the Federation or other authority to which such legal practitioner is subject in the exercise of his profession.
 
@@ -3392,7 +3159,6 @@ If the court is of the opinion that any question referred to in section 224 of t
 <a id="section-227"></a>
 ### Section 227 - Indecent and scandalous questions
 
-> Source: https://www.lawglobalhub.com/section-227-evidence-act-2011/
 
 The court may forbid any questions or inquiries which it regards as indecent or scandalous although such questions or inquiries may have some bearing on the questions before the court, unless they relate to facts in issue or to matters necessary to be known in order to determine whether or not the facts in issue existed.
 
@@ -3400,7 +3166,6 @@ The court may forbid any questions or inquiries which it regards as indecent or 
 <a id="section-228"></a>
 ### Section 228 - Questions intended to insult or annoy
 
-> Source: https://www.lawglobalhub.com/section-228-evidence-act-2011/
 
 The court shall forbid any question which appears to it to be intended to insult or annoy, or which, though proper in itself, appears to the court needlessly offensive in form.
 
@@ -3408,7 +3173,6 @@ The court shall forbid any question which appears to it to be intended to insult
 <a id="section-229"></a>
 ### Section 229 - Exclusion of evidence to contradict answers to questions testing veracity
 
-> Source: https://www.lawglobalhub.com/section-229-evidence-act-2011/
 
 When a witness has been asked and has answered any question which is relevant to the inquiry only in so far as it tends to shake his credit by injuring his character, no evidence shall be given to contradict him; but if he answers falsely, he may afterwards be charged with an offence under section 191 of the Criminal Code and on conviction, shall be dealt with accordingly:Provided that -
   - <a id="section-229-para-a"></a> **(a)** if a witness is asked whether he has been previously convicted of any crime and denies it, evidence may be given of his previous conviction;
@@ -3418,7 +3182,6 @@ When a witness has been asked and has answered any question which is relevant to
 <a id="section-230"></a>
 ### Section 230 - How far a party may discredit his own witness
 
-> Source: https://www.lawglobalhub.com/section-230-evidence-act-2011/
 
 The party producing a witness shall not be allowed to impeach his credit by general evidence of bad character, but he may in case the witness shall, in the opinion of the court, prove hostile, contradict him by other evidence, or by leave of court, prove that he has made at other times a statement inconsistent with his present testimony; but before such last mentioned proof can be given, the circumstances or the supposed statement, sufficient to designate the particular occasion, must be mentioned to the witness and he must be asked whether or not be has made such statement.
 
@@ -3426,7 +3189,6 @@ The party producing a witness shall not be allowed to impeach his credit by gene
 <a id="section-231"></a>
 ### Section 231 - Proof of contradictory statement of hostile witness
 
-> Source: https://www.lawglobalhub.com/section-231-evidence-act-2011/
 
 If a witness upon cross-examination as to a former statement made by him relative to the subject - matter of the trial, and inconsistent with his present testimony, does not distinctly admit that he has made such statement, proof may be given that he did in fact make it; but before such proof can be given the circumstances of the supposed statement sufficient to designate the particular occasion must be mentioned to the witness, and he must be asked whether or not he has made such statement.
 
@@ -3434,7 +3196,6 @@ If a witness upon cross-examination as to a former statement made by him relativ
 <a id="section-232"></a>
 ### Section 232 - Cross-examination as to previous statements in writing
 
-> Source: https://www.lawglobalhub.com/section-232-evidence-act-2011/
 
 A witness may be cross-examined as to previous statements made by him in writing or reduced into writing and relative to matters in question in the suit or proceedings in which he is cross-examined without such writing being shown to him or being proved, but if it is intended to contradict such witness by the writing, his attention must, before such writing can be proved, or such contradictory proof given, be called to those parts of the writing which are to be used for the purpose of contradicting him:
 
@@ -3444,7 +3205,6 @@ Provided always that it shall be competent for the court at any time during the 
 <a id="section-233"></a>
 ### Section 233 - Impeaching credit of witness
 
-> Source: https://www.lawglobalhub.com/section-233-evidence-act-2011/
 
 The credit of a witness may be impeached in the following ways by any party other than the party calling him or with the consent of the court by the party who calls him by -
   - <a id="section-233-para-a"></a> **(a)** the evidence of persons who testify that they, from their knowledge of the witness, believe him to be unworthy of credit;
@@ -3455,7 +3215,6 @@ The credit of a witness may be impeached in the following ways by any party othe
 <a id="section-234"></a>
 ### Section 234 - Special restrictions respecting permissible evidence in trial for sexual offences
 
-> Source: https://www.lawglobalhub.com/section-234-evidence-act-2011/
 
 Where a person is prosecuted for rape or attempt to commit rape or for indecent assault, except with the leave of the court no evidence shall be adduced, and, except with the like leave, no question in cross-examination shall be asked by or on behalf of the defendant, about any sexual experience of the complainant with any person other than the defendant.
 
@@ -3463,7 +3222,6 @@ Where a person is prosecuted for rape or attempt to commit rape or for indecent 
 <a id="section-235"></a>
 ### Section 235 - Evidence of witness impeaching credit
 
-> Source: https://www.lawglobalhub.com/section-235-evidence-act-2011/
 
 A witness declaring another witness to be unworthy of credit may not, upon his examination-in-chief give reasons for his belief but he may be asked his reasons in cross-examination, and the answers which he gives cannot be contradicted, though, if they are false, he may afterwards be charged with an offence under section 191 of the Criminal Code and on conviction, shall be dealt with accordingly.
 
@@ -3471,7 +3229,6 @@ A witness declaring another witness to be unworthy of credit may not, upon his e
 <a id="section-236"></a>
 ### Section 236 - Questions tending to render evidence of relevant fact more probable, admissible
 
-> Source: https://www.lawglobalhub.com/section-236-evidence-act-2011/
 
 When a witness gives evidence of any relevant fact, he may be questioned as to any other circumstances which he observed at or near to the time or place at which such relevant fact occurred, if the court is of the opinion that such circumstances if proved, would render more probable the testimony of the witness as to the relevant fact which he testifies.
 
@@ -3479,7 +3236,6 @@ When a witness gives evidence of any relevant fact, he may be questioned as to a
 <a id="section-237"></a>
 ### Section 237 - Former statements of witness may be proved to show consistency
 
-> Source: https://www.lawglobalhub.com/section-237-evidence-act-2011/
 
 Any former statement made by a witness relating to the same fact at or about the time when the fact took place, or before any authority legally competent to investigate the fact may be proved in order to show consistency in the testimony of the witness or to show that his testimony is not an afterthought.
 
@@ -3487,7 +3243,6 @@ Any former statement made by a witness relating to the same fact at or about the
 <a id="section-238"></a>
 ### Section 238 - What matters may be proved in connection with proved statement relevant under sections 40 to 50
 
-> Source: https://www.lawglobalhub.com/section-238-evidence-act-2011/
 
 Whenever any statement admissible under sections 40 to 50 of this Act, is proved, all matters may be proved either in order to contradict or to confirm it, or in order to impeach or confirm the credit of the person by whom it was made, which might have been proved if that person had been called as a witness and had denied upon cross-examination the truth of the matters suggested.
 
@@ -3495,7 +3250,6 @@ Whenever any statement admissible under sections 40 to 50 of this Act, is proved
 <a id="section-239"></a>
 ### Section 239 - Refreshing memory
 
-> Source: https://www.lawglobalhub.com/section-239-evidence-act-2011/
 
 
 <a id="section-239-sub-1"></a>
@@ -3514,7 +3268,6 @@ Whenever any statement admissible under sections 40 to 50 of this Act, is proved
 <a id="section-240"></a>
 ### Section 240 - Testimony to facts stated in document mentioned in section 239
 
-> Source: https://www.lawglobalhub.com/section-240-evidence-act-2011/
 
 A witness may also testify to facts mentioned in any such document as is mentioned in section 239 of this Act, although he has no specific recollection of the facts themselves, if he is sure that the facts were correctly recorded in the document.
 
@@ -3522,7 +3275,6 @@ A witness may also testify to facts mentioned in any such document as is mention
 <a id="section-241"></a>
 ### Section 241 - Right of adverse party as to writing used to refresh memory
 
-> Source: https://www.lawglobalhub.com/section-241-evidence-act-2011/
 
 Any writing referred to under sections 239 and 240 of this Act must be produced and shown to the adverse party if he requires it, and such party may, if he pleases, cross - examine the witness upon the writing.
 
@@ -3530,7 +3282,6 @@ Any writing referred to under sections 239 and 240 of this Act must be produced 
 <a id="section-242"></a>
 ### Section 242 - Production of documentsSection 243 Evidence Act 2011- Exclusion of evidence on grounds of public interest
 
-> Source: https://www.lawglobalhub.com/section-242-evidence-act-2011/
 
 
 <a id="section-242-sub-1"></a>
@@ -3546,7 +3297,6 @@ Any writing referred to under sections 239 and 240 of this Act must be produced 
 <a id="section-243"></a>
 ### Section 243 - Exclusion of evidence on grounds of public interest
 
-> Source: https://www.lawglobalhub.com/section-243-evidence-act-2011/
 
 
 <a id="section-243-sub-1"></a>
@@ -3569,7 +3319,6 @@ Any writing referred to under sections 239 and 240 of this Act must be produced 
 <a id="section-244"></a>
 ### Section 244 - Giving as evidence document called for and produced on notice
 
-> Source: https://www.lawglobalhub.com/section-244-evidence-act-2011/
 
 When a party calls for a document which he has given the other party notice to produce, and such document is produced and inspected by the party calling for its production, he is bound to give it as evidence if the party producing it requires him to do so.
 
@@ -3577,7 +3326,6 @@ When a party calls for a document which he has given the other party notice to p
 <a id="section-245"></a>
 ### Section 245 - Using, as evidence, of document production of which was refused on notice
 
-> Source: https://www.lawglobalhub.com/section-245-evidence-act-2011/
 
 When a party refuses to produce a document which he has had notice to produce, he cannot afterwards use the document as evidence without the consent of the other party or the order of the court.
 
@@ -3585,7 +3333,6 @@ When a party refuses to produce a document which he has had notice to produce, h
 <a id="section-246"></a>
 ### Section 246 - Judge's power to put questions or order production of documents, etc
 
-> Source: https://www.lawglobalhub.com/section-246-evidence-act-2011/
 
 
 <a id="section-246-sub-1"></a>
@@ -3603,7 +3350,6 @@ When a party refuses to produce a document which he has had notice to produce, h
 <a id="section-247"></a>
 ### Section 247 - Power of assessors to put questions
 
-> Source: https://www.lawglobalhub.com/section-247-evidence-act-2011/
 
 In cases tried with assessors, the assessors may put question to the witnesses, through or by leave of the judge, which the judge himself may put and which he considers proper.
 
@@ -3617,7 +3363,6 @@ In cases tried with assessors, the assessors may put question to the witnesses, 
 <a id="section-248"></a>
 ### Section 248 - Proof of previous conviction
 
-> Source: https://www.lawglobalhub.com/section-248-evidence-act-2011/
 
 
 <a id="section-248-sub-1"></a>
@@ -3634,7 +3379,6 @@ In cases tried with assessors, the assessors may put question to the witnesses, 
 <a id="section-249"></a>
 ### Section 249 - Proof of previous conviction outside Nigeria
 
-> Source: https://www.lawglobalhub.com/section-249-evidence-act-2011/
 
 
 <a id="section-249-sub-1"></a>
@@ -3651,7 +3395,6 @@ In cases tried with assessors, the assessors may put question to the witnesses, 
 <a id="section-250"></a>
 ### Section 250 - Additional mode of proof in criminal proceedings of a previous conviction
 
-> Source: https://www.lawglobalhub.com/section-250-evidence-act-2011/
 
 
 <a id="section-250-sub-1"></a>
@@ -3697,7 +3440,6 @@ In cases tried with assessors, the assessors may put question to the witnesses, 
 <a id="section-251"></a>
 ### Section 251 - Wrongful admission or exclusion of evidence
 
-> Source: https://www.lawglobalhub.com/section-251-evidence-act-2011/
 
 
 <a id="section-251-sub-1"></a>
@@ -3721,7 +3463,6 @@ In cases tried with assessors, the assessors may put question to the witnesses, 
 <a id="section-252"></a>
 ### Section 252 - Interpretation of "court" in this Part
 
-> Source: https://www.lawglobalhub.com/section-252-evidence-act-2011/
 
 In this Part -"Court" means a High Court or a magistrate's court and courts of similar jurisdiction.
 
@@ -3729,7 +3470,6 @@ In this Part -"Court" means a High Court or a magistrate's court and courts of s
 <a id="section-253"></a>
 ### Section 253 - Subpoena or witness summons may be served in another State
 
-> Source: https://www.lawglobalhub.com/section-253-evidence-act-2011/
 
 
 <a id="section-253-sub-1"></a>
@@ -3750,7 +3490,6 @@ In this Part -"Court" means a High Court or a magistrate's court and courts of s
 <a id="section-254"></a>
 ### Section 254 - Orders for production of prisoners
 
-> Source: https://www.lawglobalhub.com/section-254-evidence-act-2011/
 
 
 <a id="section-254-sub-1"></a>
@@ -3774,8 +3513,6 @@ In this Part -"Court" means a High Court or a magistrate's court and courts of s
 <a id="section-255"></a>
 ### Section 255 - Regulations [substituted by Evidence (Amendment) Act, 2023] [current overlay applied]
 
-> Source: https://www.lawglobalhub.com/section-255-evidence-act-2011/
-> Currentness: this section includes text overlaid from the Evidence (Amendment) Act, 2023.
 
 
 <a id="section-255-sub-1"></a>
@@ -3789,7 +3526,6 @@ In this Part -"Court" means a High Court or a magistrate's court and courts of s
 <a id="section-256"></a>
 ### Section 256 - Application
 
-> Source: https://www.lawglobalhub.com/section-256-evidence-act-2011/
 
 
 <a id="section-256-sub-1"></a>
@@ -3810,7 +3546,6 @@ In this Part -"Court" means a High Court or a magistrate's court and courts of s
 <a id="section-257"></a>
 ### Section 257 - Repeal and savings
 
-> Source: https://www.lawglobalhub.com/section-257-evidence-act-2011/
 
 
 <a id="section-257-sub-1"></a>
@@ -3823,8 +3558,6 @@ In this Part -"Court" means a High Court or a magistrate's court and courts of s
 <a id="section-258"></a>
 ### Section 258 - Interpretation [amended by Evidence (Amendment) Act, 2023] [current overlay applied]
 
-> Source: https://www.lawglobalhub.com/section-258-evidence-act-2011/
-> Currentness: this section includes text overlaid from the Evidence (Amendment) Act, 2023.
 
 
 <a id="section-258-sub-1"></a>
@@ -3908,6 +3641,5 @@ In this Part -"Court" means a High Court or a magistrate's court and courts of s
 <a id="section-259"></a>
 ### Section 259 - Citation
 
-> Source: https://www.lawglobalhub.com/section-259-evidence-act-2011/
 
 This Act may be cited as the Evidence Act 2011.
