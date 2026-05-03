@@ -1,7 +1,7 @@
 # Nigerian Laws Repository
 
 <p align="center">
-  <b>A premium, structured collection of Nigerian primary legal authorities</b><br>
+  <b>A professional, structured collection of Nigerian primary legal authorities</b><br>
   <i>Optimized for research, professional study, and Agentic AI/RAG ingestion.</i>
 </p>
 
@@ -15,16 +15,16 @@ The **Nigerian Laws Repository** is a centralized, high-fidelity knowledge base 
 
 | Category | Statute / Rule | Description |
 | :--- | :--- | :--- |
-| **Constitutional** | [1999 Constitution](The_Constitution/1999_Consitution.md) | The supreme law of the Federal Republic of Nigeria (as amended). |
-| **Evidence** | [Evidence Act 2011](Evidence_Act_2011_as_amended_2023/Evidence_Act_2011_as_amended_2023.md) | Governs the admissibility of evidence in all judicial proceedings (as amended 2023). |
-| **Civil Procedure** | [Lagos High Court Rules](Lagos_Civil_Procedure_Rules_2019/Lagos.md) | Civil litigation procedure for the High Court of Lagos State (2019). |
-| **Civil Procedure** | [Abuja High Court Rules](Abuja_Civil_Procedure_Rules%202018/Abuja.md) | Civil litigation procedure for the FCT Abuja High Court (2018). |
-| **Civil Procedure** | [Federal High Court Rules](Federal_High_Court_CPR_2019/FHC_CPR_2019.md) | Civil litigation procedure for the Federal High Court (2019). |
-| **Statutes** | [Federal High Court Act](FHC_ACT/FHC_ACT.md) | Establishes the powers and jurisdiction of the Federal High Court. |
-| **Enforcement** | [Sheriffs and Civil Process Act](Sheriffs_and_Civil_Process_Act/SCPA.md) | Governs judgment enforcement and the duties of sheriffs. |
-| **Enforcement** | [Judgment Enforcement Rules](JUDGEMENT-ENFORCEMENT-RULES/JER.md) | Procedural rules for enforcement under the SCPA. |
-| **Human Rights** | [Fundamental Rights Rules](Fundamental_Rights_FREP_2009/FREP_2009.md) | Procedure for the enforcement of fundamental human rights (2009). |
-| **Ethics** | [Professional Conduct Rules](PROFESSIONAL_ETHICS/RPC_2023.md) | Ethical standards for legal practitioners in Nigeria (2023). |
+| **Constitutional** | [The Constitution of the Federal Republic of Nigeria 1999](The_Constitution/1999_Consitution.md) | The supreme law of the Federal Republic of Nigeria (as amended). |
+| **Evidence** | [Evidence Act, 2011 as amended by Evidence (Amendment) Act, 2023](Evidence_Act_2011_as_amended_2023/Evidence_Act_2011_as_amended_2023.md) | Governs the admissibility of evidence in judicial proceedings before any Court in Nigeria. |
+| **Civil Procedure** | [High Court of Lagos State (Civil Procedure) Rules 2019](Lagos_Civil_Procedure_Rules_2019/Lagos.md) | Rules governing civil litigation procedure in the High Court of Lagos State. |
+| **Civil Procedure** | [High Court of the Federal Capital Territory, Abuja (Civil Procedure) Rules 2018](Abuja_Civil_Procedure_Rules%202018/Abuja.md) | Rules governing civil litigation procedure in the High Court of the FCT, Abuja. |
+| **Civil Procedure** | [Federal High Court (Civil Procedure) Rules 2019](Federal_High_Court_CPR_2019/FHC_CPR_2019.md) | Rules governing civil litigation procedure in the Federal High Court of Nigeria. |
+| **Statutes** | [Federal High Court Act](FHC_ACT/FHC_ACT.md) | Act establishing the Federal High Court and providing for its powers and jurisdiction. |
+| **Enforcement** | [Sheriffs and Civil Process Act](Sheriffs_and_Civil_Process_Act/SCPA.md) | Act governing the appointment of sheriffs and the enforcement of judgments and orders. |
+| **Enforcement** | [Judgments (Enforcement) Rules](JUDGEMENT-ENFORCEMENT-RULES/JER.md) | Rules containing procedure for enforcement of judgments under the Sheriffs and Civil Process Act. |
+| **Human Rights** | [Fundamental Rights (Enforcement Procedure) Rules 2009](Fundamental_Rights_FREP_2009/FREP_2009.md) | Rules governing the procedure for enforcement of fundamental rights under the Constitution. |
+| **Ethics** | [Rules of Professional Conduct for Legal Practitioners 2023](PROFESSIONAL_ETHICS/RPC_2023.md) | Rules regulating the ethical standards and professional conduct of legal practitioners in Nigeria. |
 
 ---
 
