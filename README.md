@@ -83,7 +83,7 @@ Professional contributions are welcome. To maintain the high standard of this re
 If you use this repository for your own research, software development (including RAG systems), or academic work, please provide appropriate credit.
 
 **Recommended Attribution:**
-> *Nigerian Laws Repository. Curated and structured by Ayooluwa Paul Obembe Esq. Available at [Your Repository URL]*
+> *Nigerian Laws Repository. Curated and structured by Ayooluwa Paul Obembe Esq. Available at https://github.com/sphinx010/Nigerian_Laws*
 
 ## Licensing
 
