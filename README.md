@@ -1,89 +1,65 @@
 # Nigerian Laws Repository
 
-A structured, markdown-formatted collection of Nigerian primary legal authorities, curated for research, study, and agentic AI/RAG pipeline ingestion.
-
-[STILL IN PROGRESS]
----
-
-## Contents
-
-This repository currently contains the following legal documents:
-
-### 1. `The_Constitution/`
-- **1999_Consitution.md** — The Constitution of the Federal Republic of Nigeria, 1999 (as amended). The supreme law of the land, establishing the framework of government and fundamental rights of citizens.
-
-### 2. `Lagos_Civil_Procedure_Rules_2019/`
-- **Lagos.md** — The High Court of Lagos State (Civil Procedure) Rules, 2019. Governs civil litigation procedure in the Lagos State High Court, including pleadings, service, pre-trial processes, trial conduct, and enforcement of judgments.
-
-### 3. `Abuja_Civil_Procedure_Rules 2018/`
-- **Abuja.md** — The High Court of the Federal Capital Territory (Civil Procedure) Rules, 2018. Governs civil litigation procedure in the FCT Abuja High Court, covering originating processes, interlocutory applications, case management, and judgment enforcement.
-
-### 4. `Federal_High_Court_CPR_2019/`
-- **FHC_CPR_2019.md** — The Federal High Court (Civil Procedure) Rules, 2019. Governs civil litigation procedure in the Federal High Court of Nigeria.
-
-### 5. `Sheriffs_and_Civil_Process_Act/`
-- **SCPA.md** — The Sheriffs and Civil Process Act. Governs the appointment and duties of sheriffs, the enforcement of judgments and orders, and the service and execution of civil process of the Courts of the Federation and the States.
-
-### 6. `JUDGEMENT-ENFORCEMENT-RULES/`
-- **JER.md** — The Judgment (Enforcement) Rules. Contains the procedural rules for the enforcement of judgments under the Sheriffs and Civil Process Act.
-
-### 7. `PROFESSIONAL_ETHICS/`
-- **RPC_2023.md** — The Rules of Professional Conduct for Legal Practitioners, 2023. Regulates the ethical standards and professional conduct of legal practitioners in Nigeria.
-
-### 8. `Fundamental_Rights_FREP_2009/`
-- **FREP_2009.md** — The Fundamental Rights (Enforcement Procedure) Rules, 2009. Governs the procedure for the enforcement of fundamental human rights enshrined in the Constitution.
-
-### 9. `FHC_ACT/`
-- **FHC_ACT.md** — The Federal High Court Act. Establishes the Federal High Court as a High Court with certain special powers and provides for all other matters connected therewith.
-
-### 10. `Evidence_Act_2011_as_amended_2023/`
-- **Evidence_Act_2011_as_amended_2023.md** — The Evidence Act, 2011 (as amended in 2023). Governs the admissibility of evidence in all judicial proceedings in or before any Court in Nigeria.
+<p align="center">
+  <b>A premium, structured collection of Nigerian primary legal authorities</b><br>
+  <i>Optimized for research, professional study, and Agentic AI/RAG ingestion.</i>
+</p>
 
 ---
 
-## Purpose
+## Overview
 
-This repository serves as a **centralized, plain-text knowledge base** of Nigerian legal texts, structured for:
+The **Nigerian Laws Repository** is a centralized, high-fidelity knowledge base of Nigerian statutes and procedural rules. Every document is meticulously formatted in Markdown to ensure maximum readability for humans and seamless parsing for automated systems.
 
-- **Legal research and reference** — Quick access to primary authorities without navigating official PDF documents.
-- **Law students & practitioners** — A readable, searchable format for study and examination preparation (e.g., Nigerian Bar Association, LLB, BL programmes).
-- **AI & RAG pipelines** — Markdown formatting makes these documents ideal for ingestion into graph or vector databases and retrieval-augmented generation (RAG) systems.
+## Primary Authorities
+
+| Category | Statute / Rule | Description |
+| :--- | :--- | :--- |
+| **Constitutional** | [1999 Constitution](The_Constitution/1999_Consitution.md) | The supreme law of the Federal Republic of Nigeria (as amended). |
+| **Evidence** | [Evidence Act 2011](Evidence_Act_2011_as_amended_2023/Evidence_Act_2011_as_amended_2023.md) | Governs the admissibility of evidence in all judicial proceedings (as amended 2023). |
+| **Civil Procedure** | [Lagos High Court Rules](Lagos_Civil_Procedure_Rules_2019/Lagos.md) | Civil litigation procedure for the High Court of Lagos State (2019). |
+| **Civil Procedure** | [Abuja High Court Rules](Abuja_Civil_Procedure_Rules%202018/Abuja.md) | Civil litigation procedure for the FCT Abuja High Court (2018). |
+| **Civil Procedure** | [Federal High Court Rules](Federal_High_Court_CPR_2019/FHC_CPR_2019.md) | Civil litigation procedure for the Federal High Court (2019). |
+| **Statutes** | [Federal High Court Act](FHC_ACT/FHC_ACT.md) | Establishes the powers and jurisdiction of the Federal High Court. |
+| **Enforcement** | [Sheriffs and Civil Process Act](Sheriffs_and_Civil_Process_Act/SCPA.md) | Governs judgment enforcement and the duties of sheriffs. |
+| **Enforcement** | [Judgment Enforcement Rules](JUDGEMENT-ENFORCEMENT-RULES/JER.md) | Procedural rules for enforcement under the SCPA. |
+| **Human Rights** | [Fundamental Rights Rules](Fundamental_Rights_FREP_2009/FREP_2009.md) | Procedure for the enforcement of fundamental human rights (2009). |
+| **Ethics** | [Professional Conduct Rules](PROFESSIONAL_ETHICS/RPC_2023.md) | Ethical standards for legal practitioners in Nigeria (2023). |
 
 ---
 
-## Repository Structure
+## Design Philosophy
 
-```
+This repository is built on three core pillars:
+
+1. **Structural Integrity** — Maintaining the original hierarchy of sections, parts, and chapters.
+2. **Plain-Text Accessibility** — Removing the friction of PDFs while retaining official legal formatting.
+3. **Machine Readiness** — Structured specifically for LLM tokenization, vector embedding, and RAG pipelines.
+
+## Repository Architecture
+
+```text
 Nigerian_Laws/
-├── README.md
 ├── The_Constitution/
-│   └── 1999_Consitution.md
+├── Evidence_Act_2011_as_amended_2023/
 ├── Lagos_Civil_Procedure_Rules_2019/
-│   └── Lagos.md
 ├── Abuja_Civil_Procedure_Rules 2018/
-│   └── Abuja.md
 ├── Federal_High_Court_CPR_2019/
-│   └── FHC_CPR_2019.md
-├── Sheriffs_and_Civil_Process_Act/
-│   └── SCPA.md
-├── JUDGEMENT-ENFORCEMENT-RULES/
-│   └── JER.md
-├── PROFESSIONAL_ETHICS/
-│   └── RPC_2023.md
-├── Fundamental_Rights_FREP_2009/
-│   └── FREP_2009.md
 ├── FHC_ACT/
-│   └── FHC_ACT.md
-└── Evidence_Act_2011_as_amended_2023/
-    └── Evidence_Act_2011_as_amended_2023.md
+├── Sheriffs_and_Civil_Process_Act/
+├── JUDGEMENT-ENFORCEMENT-RULES/
+├── Fundamental_Rights_FREP_2009/
+└── PROFESSIONAL_ETHICS/
 ```
 
 ---
 
-## Contributing
+## Contributions
 
-Contributions are welcome. If you would like to add additional Nigerian statutes, rules of court, or practice directions, please open a pull request with the document formatted in Markdown, placed in a clearly named directory.
+Professional contributions are welcome. To maintain the high standard of this repository, ensure that all new statutes or rules follow the established Markdown anchor patterns and are placed within their respective directories.
 
 ---
 
-*Maintained for the advancement of Nigerian legal education and research.*
+<p align="center">
+  <i>Advancing Nigerian legal technology and education through structured data.</i>
+</p>
