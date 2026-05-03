@@ -36,6 +36,9 @@ This repository currently contains the following legal documents:
 ### 9. `FHC_ACT/`
 - **FHC_ACT.md** — The Federal High Court Act. Establishes the Federal High Court as a High Court with certain special powers and provides for all other matters connected therewith.
 
+### 10. `Evidence_Act_2011_as_amended_2023/`
+- **Evidence_Act_2011_as_amended_2023.md** — The Evidence Act, 2011 (as amended in 2023). Governs the admissibility of evidence in all judicial proceedings in or before any Court in Nigeria.
+
 ---
 
 ## Purpose
@@ -69,8 +72,10 @@ Nigerian_Laws/
 │   └── RPC_2023.md
 ├── Fundamental_Rights_FREP_2009/
 │   └── FREP_2009.md
-└── FHC_ACT/
-    └── FHC_ACT.md
+├── FHC_ACT/
+│   └── FHC_ACT.md
+└── Evidence_Act_2011_as_amended_2023/
+    └── Evidence_Act_2011_as_amended_2023.md
 ```
 
 ---
