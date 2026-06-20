@@ -29,6 +29,7 @@ This digital corpus is curated and maintained as a professional contribution to 
 | **Law of Evidence** | [Evidence Act, 2011 as amended by Evidence (Amendment) Act, 2023](Evidence_Act_2011_as_amended_2023/Evidence_Act_2011_as_amended_2023.md) | Governs the admissibility of evidence in judicial proceedings before any Court in Nigeria. |
 | **Civil Litigation** | [High Court of Lagos State (Civil Procedure) Rules 2019](Lagos_Civil_Procedure_Rules_2019/Lagos.md) | Rules governing civil litigation procedure in the High Court of Lagos State. |
 | **Civil Litigation** | [High Court of the Federal Capital Territory, Abuja (Civil Procedure) Rules 2018](Abuja_Civil_Procedure_Rules%202018/Abuja.md) | Rules governing civil litigation procedure in the High Court of the FCT, Abuja. |
+| **Civil Litigation** | [High Court of the Federal Capital Territory, Abuja (Civil Procedure) Rules 2025](FCT_High_Court_CPR_2025/FCT_CPR_2025.md) | The updated rules governing civil litigation procedure in the High Court of the FCT, Abuja (supersedes the 2018 Rules). |
 | **Civil Litigation** | [Federal High Court (Civil Procedure) Rules 2019](Federal_High_Court_CPR_2019/FHC_CPR_2019.md) | Rules governing civil litigation procedure in the Federal High Court of Nigeria. |
 | **Judicial Statutes** | [Federal High Court Act](FHC_ACT/FHC_ACT.md) | Act establishing the Federal High Court and providing for its powers and jurisdiction. |
 | **Judgment Enforcement** | [Sheriffs and Civil Process Act](Sheriffs_and_Civil_Process_Act/SCPA.md) | Act governing the appointment of sheriffs and the enforcement of judgments and orders. |
@@ -40,6 +41,7 @@ This digital corpus is curated and maintained as a professional contribution to 
 | **Magisterial Law & Procedure** | [Lagos State Magistrates' Courts Civil Procedure Rules 2009](Lagos_State_Magistrates_Courts_Civil_Procedure_Rules_2009/LSMCCPR_2009.md) | Procedural rules for civil matters in the Magistrates' Courts of Lagos State. |
 | **Magisterial Law & Procedure** | [Magistrates' Court Law of Lagos State](Magistrates_Court_Law_of_Lagos_State/MCL_Lagos.md) | Law establishing and providing for the jurisdiction of Magistrates' Courts in Lagos. |
 | **Professional Ethics** | [Rules of Professional Conduct for Legal Practitioners 2023](PROFESSIONAL_ETHICS/RPC_2023.md) | Rules regulating the ethical standards and professional conduct of legal practitioners in Nigeria. |
+| **General Law** | [Oaths Act, LFN 2004](Oaths_Act_LFN_2004/Oaths_Act.md) | Act governing the administration of oaths and affirmations in Nigeria, including forms of judicial and official oaths. |
 
 ---
 
@@ -69,7 +71,9 @@ Nigerian_Laws/
 ├── Small_Claims_Court_Practice_Directions_2023/
 ├── Lagos_State_Magistrates_Courts_Civil_Procedure_Rules_2009/
 ├── Magistrates_Court_Law_of_Lagos_State/
-└── PROFESSIONAL_ETHICS/
+├── PROFESSIONAL_ETHICS/
+├── FCT_High_Court_CPR_2025/
+└── Oaths_Act_LFN_2004/
 ```
 
 ---
